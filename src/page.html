@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Racklist — open VST and CLAP plugins</title>
+  <meta name="description" content="A searchable list of free DAW plugins — VST, VST3, and CLAP — from the Open Audio Registry and GitHub.">
+  <meta name="theme-color" content="#4502FF">
+  <meta property="og:title" content="Racklist">
+  <meta property="og:description" content="Open VST, VST3 and CLAP plugins">
+  <meta name="twitter:card" content="summary_large_image">
+  <!--og-image-->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&family=VT323&display=swap">
+  <style>/*style*/</style>
+</head>
+<body>
+  <div class="bar">
+    <div class="bar-inner">
+      <div class="brand">
+        <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <p>Racklist</p>
+      </div>
+    </div>
+  </div>
+
+  <header class="page head">
+    <div class="intro">
+      <h1>Plugins for the DAW.</h1>
+      <p>VST, VST3, CLAP, AU and AAX. LV2-only projects and JUCE templates stay out.</p>
+    </div>
+
+    <dl class="stats" id="stats"><!--stats--></dl>
+
+    <label class="field">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16.5 20 20.5" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Search name, author, tag, repo" aria-label="Search plugins" autocomplete="off">
+    </label>
+
+    <div class="filters">
+      <div class="scroller"><!--kinds--></div>
+      <div class="row">
+        <!--sources-->
+        <label class="sort">Sort
+          <select id="sort" class="arcade">
+            <option value="stars">Stars</option>
+            <option value="downloads">Downloads</option>
+            <option value="updated">Updated</option>
+            <option value="name">Name</option>
+          </select>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main class="page layout">
+    <section class="results" aria-label="Plugin list">
+      <div id="blogs"><!--blogs--></div>
+      <p id="count" class="label muted"><!--count--></p>
+      <ul id="list"><!--list--></ul>
+      <button type="button" id="more" class="arcade more"><!--more--></button>
+    </section>
+    <aside id="detail" data-empty="true"><!--detail--></aside>
+  </main>
+
+  <footer class="page foot" id="foot"><!--footer--></footer>
+
+  <script>/*script*/</script>
+</body>
+</html>

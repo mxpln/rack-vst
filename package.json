@@ -1,0 +1,9 @@
+{
+  "name": "racklist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-plugins.mjs",
+    "build": "node build.mjs"
+  }
+}

@@ -1,0 +1,101 @@
+name: Update plugin catalog
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # Mondays 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Keep the previous catalog for comparison
+        run: cp catalog.json "$RUNNER_TEMP/catalog.prev.json"
+
+      - name: Fetch the catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run fetch
+
+      - name: Build the site
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: npm run build
+
+      - name: Upload the built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+          retention-days: 1
+
+      - name: Find new plugins
+        id: diff
+        run: |
+          node --input-type=module <<'JS' > "$RUNNER_TEMP/summary.txt"
+          import { readFileSync, appendFileSync } from "node:fs";
+          const prev = JSON.parse(readFileSync(process.env.RUNNER_TEMP + "/catalog.prev.json", "utf8"));
+          const next = JSON.parse(readFileSync("catalog.json", "utf8"));
+          const strip = ({ generatedAt, ...rest }) => JSON.stringify(rest);
+          const changed = strip(prev) !== strip(next);
+          const old = new Set(prev.plugins.map((p) => p.id));
+          const added = next.plugins.filter((p) => !old.has(p.id));
+          const kept = new Set(next.plugins.map((p) => p.id));
+          const removed = prev.plugins.filter((p) => !kept.has(p.id));
+          appendFileSync(process.env.GITHUB_OUTPUT, `changed=${changed}\nadded=${added.length}\n`);
+          console.log(`Catalog update: +${added.length} new, -${removed.length} removed, ${next.plugins.length} total`);
+          for (const p of added.slice(0, 30)) console.log(`- ${p.name} (${p.id})`);
+          if (added.length > 30) console.log(`- …and ${added.length - 30} more`);
+          JS
+          cat "$RUNNER_TEMP/summary.txt" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit the new catalog
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "chore: weekly catalog update" -m "$(cat "$RUNNER_TEMP/summary.txt")"
+          git push
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
