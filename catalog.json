@@ -1,6 +1,6 @@
 {
   "name": "Racklist VST catalog",
-  "generatedAt": "2026-11-19T05:53:54.735Z",
+  "generatedAt": "2026-11-20T14:39:21.305Z",
   "criteria": {
     "batchSize": 100,
     "studiorackUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/index.json",
@@ -20,12 +20,12 @@
     ]
   },
   "counts": {
-    "total": 998,
+    "total": 989,
     "registry": 606,
-    "githubOnly": 301,
+    "githubOnly": 299,
     "both": 119,
-    "blog": 91,
-    "vst3": 769,
+    "blog": 84,
+    "vst3": 766,
     "clap": 232,
     "lv2": 175
   },
@@ -59,7 +59,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/werman/noise-suppression-for-voice/noise-suppression-for-voice.jpg",
       "audio": null,
       "downloads": 404825,
-      "stars": 6992,
+      "stars": 6994,
       "forks": 311,
       "source": "both",
       "verified": true,
@@ -150,13 +150,13 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/asb2m10/dexed/dexed.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/asb2m10/dexed/dexed.flac",
       "downloads": 416614,
-      "stars": 3662,
+      "stars": 3668,
       "forks": 321,
       "source": "both",
       "verified": true,
       "archived": false,
       "date": "2025-11-29T18:57:25Z",
-      "updated": "2026-11-17T23:47:50Z",
+      "updated": "2026-11-20T04:00:46Z",
       "language": "C++",
       "topics": [
         "dx7",
@@ -256,8 +256,8 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damrsn/neuralnote/neuralnote.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damrsn/neuralnote/neuralnote.flac",
       "downloads": 0,
-      "stars": 3499,
-      "forks": 255,
+      "stars": 3512,
+      "forks": 254,
       "source": "both",
       "verified": true,
       "archived": false,
@@ -339,13 +339,13 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 1073,
+      "stars": 1076,
       "forks": 46,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T00:36:01Z",
+      "updated": "2026-11-20T14:24:46Z",
       "language": "C++",
       "topics": [
         "audio-effect",
@@ -483,7 +483,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/greatest-ape/octasine/octasine.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/greatest-ape/octasine/octasine.flac",
       "downloads": 6485,
-      "stars": 824,
+      "stars": 823,
       "forks": 25,
       "source": "both",
       "verified": true,
@@ -563,7 +563,7 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 763,
+      "stars": 764,
       "forks": 30,
       "source": "github",
       "verified": false,
@@ -616,8 +616,8 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vastdynamics/vaporizer2/vaporizer2.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vastdynamics/vaporizer2/vaporizer2.flac",
       "downloads": 17666,
-      "stars": 605,
-      "forks": 40,
+      "stars": 606,
+      "forks": 41,
       "source": "both",
       "verified": true,
       "archived": false,
@@ -703,7 +703,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lucianodato/noise-repellent/noise-repellent.jpg",
       "audio": null,
       "downloads": 1199,
-      "stars": 575,
+      "stars": 576,
       "forks": 42,
       "source": "both",
       "verified": true,
@@ -789,7 +789,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vvvar/peakeater/peakeater.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vvvar/peakeater/peakeater.flac",
       "downloads": 22796,
-      "stars": 472,
+      "stars": 471,
       "forks": 17,
       "source": "both",
       "verified": true,
@@ -1250,8 +1250,8 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/midilab/jc303/jc303.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/midilab/jc303/jc303.flac",
       "downloads": 9877,
-      "stars": 312,
-      "forks": 19,
+      "stars": 314,
+      "forks": 20,
       "source": "both",
       "verified": true,
       "archived": false,
@@ -1497,7 +1497,7 @@
       "verified": true,
       "archived": false,
       "date": "2026-09-28T02:10:39Z",
-      "updated": "2026-11-17T01:25:07Z",
+      "updated": "2026-11-20T06:05:59Z",
       "language": "C++",
       "topics": [
         "audio-effect",
@@ -1617,6 +1617,12 @@
           "url": "https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/",
           "date": "2026-11-15T18:33:45",
           "title": "RiverFlux Audio adds RF-BUS FREE bus compressor to the Relic bundle"
+        },
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-compressor-plugins/",
+          "date": "2020-05-22T20:10:19+00:00",
+          "title": "The 15 Best Compressor Plugins For Every Mix Situation"
         }
       ]
     },
@@ -1842,7 +1848,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/janosgit/schrammel-ojd/schrammel-ojd.jpg",
       "audio": null,
       "downloads": 377,
-      "stars": 194,
+      "stars": 195,
       "forks": 23,
       "source": "both",
       "verified": true,
@@ -2096,7 +2102,7 @@
       "verified": true,
       "archived": false,
       "date": "2026-11-07T19:18:56Z",
-      "updated": "2026-11-17T18:32:52Z",
+      "updated": "2026-11-19T19:37:13Z",
       "language": "C++",
       "topics": [
         "audio-effect",
@@ -3264,7 +3270,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T04:44:52Z",
+      "updated": "2026-11-19T19:34:29Z",
       "language": "C++",
       "topics": [
         "audio-effect",
@@ -3306,7 +3312,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mikemorenodsp/ep-mk1/ep-mk1.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mikemorenodsp/ep-mk1/ep-mk1.flac",
       "downloads": 1204,
-      "stars": 84,
+      "stars": 85,
       "forks": 9,
       "source": "both",
       "verified": true,
@@ -3744,7 +3750,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reillypascal/rsalgorithmicverb/rsalgorithmicverb.jpg",
       "audio": null,
       "downloads": 769,
-      "stars": 79,
+      "stars": 80,
       "forks": 8,
       "source": "both",
       "verified": true,
@@ -4132,13 +4138,13 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 70,
+      "stars": 71,
       "forks": 0,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T00:49:58Z",
+      "updated": "2026-11-20T14:30:05Z",
       "language": "HTML",
       "topics": [
         "analog-synth",
@@ -4802,7 +4808,7 @@
       "verified": true,
       "archived": false,
       "date": "2026-04-26T23:12:04Z",
-      "updated": "2026-10-19T09:27:30Z",
+      "updated": "2026-11-19T22:16:10Z",
       "language": "C++",
       "topics": [
         "vst"
@@ -5250,7 +5256,7 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 49,
+      "stars": 50,
       "forks": null,
       "source": "github",
       "verified": false,
@@ -6785,7 +6791,7 @@
       "verified": true,
       "archived": false,
       "date": "2024-03-31T07:49:45Z",
-      "updated": "2026-11-07T19:07:55Z",
+      "updated": "2026-11-20T03:16:56Z",
       "language": "C++",
       "topics": [
         "juce",
@@ -7415,6 +7421,45 @@
       "mentions": []
     },
     {
+      "id": "zl-audio/zllimiter#github",
+      "name": "ZLLimiter",
+      "author": "ZL-Audio",
+      "description": "limiter plugin",
+      "kind": "effect",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "lv2",
+        "au"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/ZL-Audio/ZLLimiter",
+      "repo": "zl-audio/zllimiter",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 31,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-19T19:35:55Z",
+      "language": "C++",
+      "topics": [
+        "audio-effect",
+        "audio-unit",
+        "juce",
+        "limiter",
+        "lv2",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "azur1s/penare",
       "name": "Penare",
       "author": "azur1s",
@@ -7651,45 +7696,6 @@
       "mentions": []
     },
     {
-      "id": "zl-audio/zllimiter#github",
-      "name": "ZLLimiter",
-      "author": "ZL-Audio",
-      "description": "limiter plugin",
-      "kind": "effect",
-      "license": "agpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "lv2",
-        "au"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/ZL-Audio/ZLLimiter",
-      "repo": "zl-audio/zllimiter",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 30,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-17T01:25:15Z",
-      "language": "C++",
-      "topics": [
-        "audio-effect",
-        "audio-unit",
-        "juce",
-        "limiter",
-        "lv2",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "jthorborg/ape",
       "name": "ape",
       "author": "jthorborg",
@@ -7748,7 +7754,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T19:43:19Z",
+      "updated": "2026-11-20T14:12:14Z",
       "language": "C++",
       "topics": [
         "daw",
@@ -7788,7 +7794,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T02:05:32Z",
+      "updated": "2026-11-19T16:43:30Z",
       "language": "TypeScript",
       "topics": [
         "audio-plugin",
@@ -8151,6 +8157,54 @@
       "mentions": []
     },
     {
+      "id": "xdarkzx/gigchain-keys",
+      "name": "GigChain-Keys",
+      "author": "xDarkzx",
+      "description": "Free MainStage alternative for Windows, Mac & Linux: a live rig for keyboard players. Your VST3/VST2 plugins, setlists, chord charts, layers & splits, built-in pianos, synths and pads, and a stage-ready Perform mode.",
+      "kind": "instrument",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/xDarkzx/GigChain-Keys",
+      "repo": "xdarkzx/gigchain-keys",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 26,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-20T08:11:53Z",
+      "language": "C++",
+      "topics": [
+        "audio",
+        "chord-charts",
+        "cpp20",
+        "keyboard",
+        "keyboardist",
+        "linux",
+        "live-music",
+        "live-performance",
+        "macos",
+        "mainstage",
+        "mainstage-alternative",
+        "midi",
+        "music",
+        "qt6",
+        "setlist",
+        "synthesizer"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "sunquan8094/overtonix",
       "name": "overtonix",
       "author": "sunquan8094",
@@ -8191,54 +8245,6 @@
         "vst",
         "wavetable",
         "wavetable-synthesizer"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "xdarkzx/gigchain-keys",
-      "name": "GigChain-Keys",
-      "author": "xDarkzx",
-      "description": "Free MainStage alternative for Windows, Mac & Linux: a live rig for keyboard players. Your VST3/VST2 plugins, setlists, chord charts, layers & splits, built-in pianos, synths and pads, and a stage-ready Perform mode.",
-      "kind": "instrument",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/xDarkzx/GigChain-Keys",
-      "repo": "xdarkzx/gigchain-keys",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 25,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-19T04:20:51Z",
-      "language": "C++",
-      "topics": [
-        "audio",
-        "chord-charts",
-        "cpp20",
-        "keyboard",
-        "keyboardist",
-        "linux",
-        "live-music",
-        "live-performance",
-        "macos",
-        "mainstage",
-        "mainstage-alternative",
-        "midi",
-        "music",
-        "qt6",
-        "setlist",
-        "synthesizer"
       ],
       "files": [],
       "mentions": []
@@ -9385,6 +9391,49 @@
       "mentions": []
     },
     {
+      "id": "andrezaiats/zamphenom",
+      "name": "zamphenom",
+      "author": "andrezaiats",
+      "description": "Real-time DSP56720 emulator that runs Kemper Profiler firmware as a VST plugin",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/andrezaiats/zamphenom",
+      "repo": "andrezaiats/zamphenom",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 22,
+      "forks": 5,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-08-31T22:01:35Z",
+      "language": "C++",
+      "topics": [
+        "audio-plugin",
+        "cpp",
+        "dsp",
+        "dsp-emulator",
+        "emulator",
+        "guitar-amp",
+        "kemper",
+        "kemper-profiler",
+        "motorola-dsp",
+        "reverse-engineering",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "atsushieno/aap-juce",
       "name": "aap-juce",
       "author": "atsushieno",
@@ -9818,49 +9867,6 @@
         "cpp",
         "dsp",
         "vst",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "andrezaiats/zamphenom",
-      "name": "zamphenom",
-      "author": "andrezaiats",
-      "description": "Real-time DSP56720 emulator that runs Kemper Profiler firmware as a VST plugin",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/andrezaiats/zamphenom",
-      "repo": "andrezaiats/zamphenom",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 20,
-      "forks": 6,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-08-31T22:01:35Z",
-      "language": "C++",
-      "topics": [
-        "audio-plugin",
-        "cpp",
-        "dsp",
-        "dsp-emulator",
-        "emulator",
-        "guitar-amp",
-        "kemper",
-        "kemper-profiler",
-        "motorola-dsp",
-        "reverse-engineering",
         "vst3"
       ],
       "files": [],
@@ -11544,7 +11550,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T02:06:17Z",
+      "updated": "2026-11-19T19:55:53Z",
       "language": "Rust",
       "topics": [
         "audio",
@@ -11807,6 +11813,102 @@
           "type": "archive"
         }
       ],
+      "mentions": []
+    },
+    {
+      "id": "ccoors/dussek",
+      "name": "dussek",
+      "author": "ccoors",
+      "description": "A free, physically modeled piano, harpsichords, harps and percussion: LV2, CLAP and VST3 plugin and standalone for Linux, Windows and macOS (Rust engine, C++ plugin)",
+      "kind": "instrument",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "clap",
+        "lv2"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/ccoors/dussek",
+      "repo": "ccoors/dussek",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 14,
+      "forks": 1,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-18T20:45:18Z",
+      "language": "Rust",
+      "topics": [
+        "audio-plugin",
+        "clap",
+        "dpf",
+        "dsp",
+        "harpsichord",
+        "linux-audio",
+        "lv2-plugin",
+        "midi",
+        "music",
+        "physical-modeling",
+        "piano",
+        "rust",
+        "synthesizer",
+        "virtual-instrument",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "dirtybeastafterthetoad/llmidi",
+      "name": "LLMidi",
+      "author": "DirtyBeastAfterTheToad",
+      "description": "MIDI generator plugin (vst3) powered by local or online large language models (LLMs).",
+      "kind": "plugin",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/DirtyBeastAfterTheToad/LLMidi",
+      "repo": "dirtybeastafterthetoad/llmidi",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 14,
+      "forks": null,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2025-12-06T12:45:19Z",
+      "language": "C++",
+      "topics": [
+        "ai-audio-plugin",
+        "audio",
+        "audio-plugin",
+        "daw",
+        "generation",
+        "generative-music",
+        "gguf",
+        "juce",
+        "llm",
+        "midi",
+        "midi-generation",
+        "midi-generator",
+        "music-production",
+        "music-tech",
+        "plugin",
+        "text-to-midi"
+      ],
+      "files": [],
       "mentions": []
     },
     {
@@ -12354,54 +12456,6 @@
       "mentions": []
     },
     {
-      "id": "ccoors/dussek",
-      "name": "dussek",
-      "author": "ccoors",
-      "description": "A free, physically modeled piano, harpsichords, harps and percussion: LV2, CLAP and VST3 plugin and standalone for Linux, Windows and macOS (Rust engine, C++ plugin)",
-      "kind": "instrument",
-      "license": "agpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "clap",
-        "lv2"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/ccoors/dussek",
-      "repo": "ccoors/dussek",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 13,
-      "forks": 1,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-18T20:45:18Z",
-      "language": "Rust",
-      "topics": [
-        "audio-plugin",
-        "clap",
-        "dpf",
-        "dsp",
-        "harpsichord",
-        "linux-audio",
-        "lv2-plugin",
-        "midi",
-        "music",
-        "physical-modeling",
-        "piano",
-        "rust",
-        "synthesizer",
-        "virtual-instrument",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "zhiyualexzhang/faustsynth",
       "name": "FaustSynth",
       "author": "ZhiyuAlexZhang",
@@ -12483,54 +12537,6 @@
         "reaper",
         "reaper-plugin",
         "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "dirtybeastafterthetoad/llmidi",
-      "name": "LLMidi",
-      "author": "DirtyBeastAfterTheToad",
-      "description": "MIDI generator plugin (vst3) powered by local or online large language models (LLMs).",
-      "kind": "plugin",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/DirtyBeastAfterTheToad/LLMidi",
-      "repo": "dirtybeastafterthetoad/llmidi",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 13,
-      "forks": null,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2025-12-06T12:45:19Z",
-      "language": "C++",
-      "topics": [
-        "ai-audio-plugin",
-        "audio",
-        "audio-plugin",
-        "daw",
-        "generation",
-        "generative-music",
-        "gguf",
-        "juce",
-        "llm",
-        "midi",
-        "midi-generation",
-        "midi-generator",
-        "music-production",
-        "music-tech",
-        "plugin",
-        "text-to-midi"
       ],
       "files": [],
       "mentions": []
@@ -14550,7 +14556,14 @@
         "windows"
       ],
       "files": [],
-      "mentions": []
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
     },
     {
       "id": "odoare/flappychord",
@@ -15317,12 +15330,6 @@
           "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
           "date": "2023-01-24T16:44:12+00:00",
           "title": "The 10 Best Free VST Instruments to Get in 2026"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -15416,7 +15423,7 @@
       "audio": null,
       "downloads": 0,
       "stars": 9,
-      "forks": null,
+      "forks": 0,
       "source": "github",
       "verified": false,
       "archived": false,
@@ -15473,42 +15480,6 @@
       "mentions": []
     },
     {
-      "id": "blck-b/prescient-vst",
-      "name": "Prescient-VST",
-      "author": "BLCK-B",
-      "description": "Open-source VST plugin: vocoder with pitch shifting.",
-      "kind": "plugin",
-      "license": "mit",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/BLCK-B/Prescient-VST",
-      "repo": "blck-b/prescient-vst",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 9,
-      "forks": 1,
-      "source": "github",
-      "verified": false,
-      "archived": true,
-      "date": null,
-      "updated": "2025-08-03T14:10:50Z",
-      "language": "C++",
-      "topics": [
-        "juce",
-        "lpc",
-        "vocoder",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "smashburger-dev/synthexis",
       "name": "synthexis",
       "author": "smashburger-dev",
@@ -15554,44 +15525,6 @@
       "mentions": []
     },
     {
-      "id": "diversiam90815/theorchestra",
-      "name": "TheOrchestra",
-      "author": "Diversiam90815",
-      "description": "An orchestral playback engine in C++20/JUCE with JSON-based instrument definitions, real-time sampling, and a modular plugin-style architecture.",
-      "kind": "sampler",
-      "license": "mit",
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Diversiam90815/TheOrchestra",
-      "repo": "diversiam90815/theorchestra",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 9,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-08-30T18:12:18Z",
-      "language": "C++",
-      "topics": [
-        "cmake",
-        "juce",
-        "midi-controller",
-        "orchestra",
-        "plugin",
-        "sampler",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "garebear99/tizwildinentertainmenthub",
       "name": "TizWildinEntertainmentHUB",
       "author": "GareBear99",
@@ -15616,7 +15549,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T03:46:44Z",
+      "updated": "2026-11-20T03:45:27Z",
       "language": "Python",
       "topics": [
         "audio",
@@ -15664,7 +15597,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T21:58:14Z",
+      "updated": "2026-11-19T22:06:04Z",
       "language": "C#",
       "topics": [
         "audio",
@@ -16321,7 +16254,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-12T22:19:55Z",
+      "updated": "2026-11-19T13:28:42Z",
       "language": "C++",
       "topics": [
         "audio-plugin",
@@ -16398,7 +16331,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T09:27:02Z",
+      "updated": "2026-11-19T09:32:09Z",
       "language": "Python",
       "topics": [
         "audio",
@@ -16794,43 +16727,40 @@
       "mentions": []
     },
     {
-      "id": "mofeing/homebrew-audio-plugins",
-      "name": "homebrew-audio-plugins",
-      "author": "mofeing",
-      "description": "Caskroom tap dedicated to free AU and VST plugins",
+      "id": "earzuchan/fix_ableton_izotope_hidpi_on_windows",
+      "name": "Fix_Ableton_iZotope_HiDPI_on_Windows",
+      "author": "EarzuChan",
+      "description": "A HiDPI bug affecting iZotope plugins within Ableton Live on Windows",
       "kind": "plugin",
-      "license": null,
+      "license": "mit",
       "tags": [],
       "formats": [
-        "vst3",
-        "au",
         "vst"
       ],
       "systems": [],
       "version": null,
-      "url": "https://github.com/mofeing/homebrew-audio-plugins",
-      "repo": "mofeing/homebrew-audio-plugins",
+      "url": "https://github.com/EarzuChan/Fix_Ableton_iZotope_HiDPI_on_Windows",
+      "repo": "earzuchan/fix_ableton_izotope_hidpi_on_windows",
       "image": null,
       "audio": null,
       "downloads": 0,
       "stars": 7,
-      "forks": 3,
+      "forks": 0,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2023-12-28T10:05:35Z",
-      "language": "Ruby",
+      "updated": "2026-03-29T14:32:19Z",
+      "language": "JavaScript",
       "topics": [
-        "audio-unit",
-        "cask",
-        "caskroom",
-        "free",
-        "homebrew",
-        "homebrew-cask",
-        "homebrew-tap",
-        "vst",
-        "vst3"
+        "ableton",
+        "fix",
+        "izotope",
+        "music",
+        "music-production",
+        "plugins",
+        "poc",
+        "vst"
       ],
       "files": [],
       "mentions": []
@@ -16943,45 +16873,6 @@
         "music-production",
         "open-source",
         "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "mikeoliphant/vst3visualstudioexample",
-      "name": "Vst3VisualStudioExample",
-      "author": "mikeoliphant",
-      "description": "A simple windows VST (VST3) example plugin using Visual Studio",
-      "kind": "plugin",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/mikeoliphant/Vst3VisualStudioExample",
-      "repo": "mikeoliphant/vst3visualstudioexample",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 7,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2020-11-21T22:24:06Z",
-      "language": "C++",
-      "topics": [
-        "audio",
-        "cpp",
-        "plugin",
-        "visual-studio",
-        "vst",
-        "vst3",
-        "windows"
       ],
       "files": [],
       "mentions": []
@@ -17539,6 +17430,45 @@
       "mentions": []
     },
     {
+      "id": "forge-audio/mp-forge",
+      "name": "mp-forge",
+      "author": "Forge-Audio",
+      "description": "Make plugins for your Akai MPC creatively. Free and open source.",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Forge-Audio/mp-forge",
+      "repo": "forge-audio/mp-forge",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 6,
+      "forks": 1,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-18T22:23:11Z",
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "akai-mpc",
+        "audio-plugin",
+        "mpc",
+        "music-production",
+        "rust",
+        "tauri",
+        "vst"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "dev-dhg/orbit-looper",
       "name": "orbit-looper",
       "author": "dev-dhg",
@@ -18070,53 +18000,6 @@
           "type": "archive"
         }
       ],
-      "mentions": []
-    },
-    {
-      "id": "radegastcz/aec3-echo-canceller",
-      "name": "AEC3-Echo-Canceller",
-      "author": "RadegasTCZ",
-      "description": "Real-time Acoustic Echo Canceller in a plugin form.",
-      "kind": "effect",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/RadegasTCZ/AEC3-Echo-Canceller",
-      "repo": "radegastcz/aec3-echo-canceller",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 5,
-      "forks": null,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-10-20T17:51:18Z",
-      "language": "C++",
-      "topics": [
-        "acoustic-echo-cancellation",
-        "aec3",
-        "agc",
-        "audio-plugin",
-        "audio-processing",
-        "automatic-gain-control",
-        "dsp",
-        "echo-cancellation",
-        "juce",
-        "limiter",
-        "loopback-audio",
-        "noise-suppression",
-        "streaming",
-        "voice",
-        "voip",
-        "vst3"
-      ],
-      "files": [],
       "mentions": []
     },
     {
@@ -18729,6 +18612,54 @@
       "mentions": []
     },
     {
+      "id": "radegastcz/webrtc-audio-engine-vst",
+      "name": "WebRTC-Audio-Engine-VST",
+      "author": "RadegasTCZ",
+      "description": "Real-time Acoustic Echo Canceller in a plugin form.",
+      "kind": "effect",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/RadegasTCZ/WebRTC-Audio-Engine-VST",
+      "repo": "radegastcz/webrtc-audio-engine-vst",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 5,
+      "forks": null,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-20T06:24:47Z",
+      "language": "C++",
+      "topics": [
+        "acoustic-echo-cancellation",
+        "aec3",
+        "agc",
+        "audio-plugin",
+        "audio-processing",
+        "automatic-gain-control",
+        "dsp",
+        "echo-cancellation",
+        "juce",
+        "limiter",
+        "loopback-audio",
+        "noise-suppression",
+        "streaming",
+        "voice",
+        "voip",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "garebear99/whispergate_free-juce-plugin",
       "name": "WhisperGate_Free-JUCE-Plugin",
       "author": "GareBear99",
@@ -19283,7 +19214,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T05:48:57Z",
+      "updated": "2026-11-19T06:09:41Z",
       "language": "C++",
       "topics": [
         "clap-plugin",
@@ -19549,6 +19480,44 @@
           "type": "installer"
         }
       ],
+      "mentions": []
+    },
+    {
+      "id": "sleepingsw0rd/z-filter-v2",
+      "name": "Z-Filter-v2",
+      "author": "sleepingsw0rd",
+      "description": "Z-Filter v2 — JUCE biquad VST3 and Standalone plugin family (Main, Mini, XL)",
+      "kind": "plugin",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/sleepingsw0rd/Z-Filter-v2",
+      "repo": "sleepingsw0rd/z-filter-v2",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 4,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-07-17T09:58:34Z",
+      "language": "C++",
+      "topics": [
+        "airwindows",
+        "audio-plugin",
+        "biquad-filter",
+        "cmake",
+        "cpp",
+        "juce",
+        "vst3"
+      ],
+      "files": [],
       "mentions": []
     },
     {
@@ -19985,7 +19954,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T22:53:05Z",
+      "updated": "2026-11-20T14:12:21Z",
       "language": "C++",
       "topics": [
         "clap",
@@ -20105,7 +20074,7 @@
       "audio": null,
       "downloads": 0,
       "stars": 3,
-      "forks": 0,
+      "forks": 1,
       "source": "github",
       "verified": false,
       "archived": false,
@@ -20147,7 +20116,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T02:30:29Z",
+      "updated": "2026-11-20T06:47:27Z",
       "language": "Rust",
       "topics": [
         "audio-plugin",
@@ -20157,45 +20126,6 @@
         "nih-plug",
         "rust",
         "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "forge-audio/mp-forge",
-      "name": "mp-forge",
-      "author": "Forge-Audio",
-      "description": "Make plugins for your Akai MPC creatively. Free and open source.",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Forge-Audio/mp-forge",
-      "repo": "forge-audio/mp-forge",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 3,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-18T22:23:11Z",
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "akai-mpc",
-        "audio-plugin",
-        "mpc",
-        "music-production",
-        "rust",
-        "tauri",
-        "vst"
       ],
       "files": [],
       "mentions": []
@@ -20305,7 +20235,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-09T15:58:18Z",
+      "updated": "2026-11-19T22:26:11Z",
       "language": "C++",
       "topics": [
         "amp-simulator",
@@ -20352,7 +20282,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T18:12:22Z",
+      "updated": "2026-11-20T14:13:00Z",
       "language": "C++",
       "topics": [
         "agpl",
@@ -20595,7 +20525,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-18T15:22:32Z",
+      "updated": "2026-11-20T09:39:18Z",
       "language": "C++",
       "topics": [
         "audio-plugin",
@@ -20818,44 +20748,6 @@
       "mentions": []
     },
     {
-      "id": "sleepingsw0rd/z-filter-v2",
-      "name": "Z-Filter-v2",
-      "author": "sleepingsw0rd",
-      "description": "Z-Filter v2 — JUCE biquad VST3 and Standalone plugin family (Main, Mini, XL)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/sleepingsw0rd/Z-Filter-v2",
-      "repo": "sleepingsw0rd/z-filter-v2",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 3,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-07-17T09:58:34Z",
-      "language": "C++",
-      "topics": [
-        "airwindows",
-        "audio-plugin",
-        "biquad-filter",
-        "cmake",
-        "cpp",
-        "juce",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "froth-audio/audiopluginsuite",
       "name": "AudioPluginSuite",
       "author": "FROTH-Audio",
@@ -21027,7 +20919,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T02:47:31Z",
+      "updated": "2026-11-20T10:56:31Z",
       "language": "C++",
       "topics": [
         "audio",
@@ -21117,7 +21009,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-19T00:56:42Z",
+      "updated": "2026-11-20T13:48:26Z",
       "language": "C++",
       "topics": [
         "mastering-plugins",
@@ -21286,6 +21178,53 @@
         "vst",
         "vst2",
         "vst3-plugin"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "zmardanian/axell-signature-dojo",
+      "name": "axell-signature-dojo",
+      "author": "zmardanian",
+      "description": "Axell Signature Dojo - your whole vocal chain, tuned to your voice from one dry take. Installs and updates the Axell plugins (checksum-verified), tunes and renders your signature sound, opens it in REAPER, previews your master on streaming services. One Windows installer carries all nine plugins; Linux too.",
+      "kind": "plugin",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/zmardanian/axell-signature-dojo",
+      "repo": "zmardanian/axell-signature-dojo",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 1,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-20T00:23:48Z",
+      "language": "C++",
+      "topics": [
+        "audio",
+        "audio-plugin",
+        "axell-dojo",
+        "axell-signature",
+        "dsp",
+        "free-plugin",
+        "hip-hop",
+        "juce",
+        "linux",
+        "linux-audio",
+        "mixing",
+        "music-production",
+        "open-source",
+        "plugin-manager",
+        "reaper",
+        "vocals"
       ],
       "files": [],
       "mentions": []
@@ -23280,7 +23219,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-04-14T22:25:34Z",
+      "updated": "2026-11-20T12:51:44Z",
       "language": null,
       "topics": [
         "audio",
@@ -23480,26 +23419,7 @@
           "type": "archive"
         }
       ],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
+      "mentions": []
     },
     {
       "id": "the-synister/synister",
@@ -23923,7 +23843,14 @@
           "type": "installer"
         }
       ],
-      "mentions": []
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
     },
     {
       "id": "kiriki-liszt/js-inflator",
@@ -53280,6 +53207,43 @@
       ]
     },
     {
+      "id": "blog:landr:adhd-levelling-tool",
+      "name": "ADHD Levelling Tool",
+      "author": "LANDR Blog",
+      "description": "The 15 Best Compressor Plugins For Every Mix Situation",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-compressor-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2020-05-22T20:10:19+00:00",
+      "updated": "2020-05-22T20:10:19+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-compressor-plugins/",
+          "date": "2020-05-22T20:10:19+00:00",
+          "title": "The 15 Best Compressor Plugins For Every Mix Situation"
+        }
+      ]
+    },
+    {
       "id": "airwindows/airwindows",
       "name": "Airwindows",
       "author": "Chris Johnson",
@@ -53333,80 +53297,6 @@
       "mentions": []
     },
     {
-      "id": "blog:bedroomproducersblog:amber-drive",
-      "name": "Amber Drive",
-      "author": "Fuse Audio Labs",
-      "description": "Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin for macOS and Windows. I love Fuse Audio Labs' software, and we've covered several of their freebies, including VREV-666 Spring Reverb and the VPRE-72 vintage tube preamp. This latest one is pretty cool if you're into Orange amps but don't have the",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-10T13:38:45",
-      "updated": "2026-11-10T13:38:45",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/",
-          "date": "2026-11-10T13:38:45",
-          "title": "Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:amp-hybrid-reverb-by-ableton",
-      "name": "Amp Hybrid Reverb by Ableton",
-      "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:ample-bass-p-lite-ii",
       "name": "Ample Bass P Lite II",
       "author": "LANDR Blog",
@@ -53446,11 +53336,11 @@
       ]
     },
     {
-      "id": "blog:landr:amplitube-5-cs",
-      "name": "Amplitube 5 CS",
+      "id": "blog:landr:analog-obsession-fetish",
+      "name": "Analog Obsession FETISH",
       "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
+      "description": "The 15 Best Compressor Plugins For Every Mix Situation",
+      "kind": "effect",
       "license": null,
       "tags": [
         "LANDR Blog"
@@ -53458,7 +53348,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
+      "url": "https://blog.landr.com/best-compressor-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -53468,17 +53358,54 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
+      "date": "2020-05-22T20:10:19+00:00",
+      "updated": "2020-05-22T20:10:19+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
+          "url": "https://blog.landr.com/best-compressor-plugins/",
+          "date": "2020-05-22T20:10:19+00:00",
+          "title": "The 15 Best Compressor Plugins For Every Mix Situation"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:arturia-pre-trida",
+      "name": "Arturia Pre TridA",
+      "author": "LANDR Blog",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
+      "kind": "plugin",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/channel-strip-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
@@ -53516,49 +53443,6 @@
           "url": "https://bedroomproducersblog.com/2026/11/12/a2d-atrium/",
           "date": "2026-11-12T17:55:51",
           "title": "A2D Sound releases Atrium, a 3D mixing plugin for stereo, with $69 intro sale"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:audified-gk-amplification-3-pro",
-      "name": "Audified GK Amplification 3 Pro",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
         }
       ]
     },
@@ -53602,43 +53486,6 @@
       ]
     },
     {
-      "id": "blog:landr:audio-thing-valves",
-      "name": "Audio Thing Valves",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:audiomodern-filterstep",
       "name": "Audiomodern Filterstep",
       "author": "LANDR Blog",
@@ -53674,6 +53521,43 @@
           "url": "https://blog.landr.com/free-vst-plugins/",
           "date": "2024-06-20T15:50:11+00:00",
           "title": "Best Free VST Plugins: Effects, Instruments & Midi"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:audiothing-blindfold-eq",
+      "name": "AudioThing Blindfold EQ",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -53930,11 +53814,11 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:blue-cat-s-amp",
-      "name": "Blue Cat’s Amp",
+      "id": "blog:landr:blue-cat-triple-eq",
+      "name": "Blue Cat Triple EQ",
       "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
       "license": null,
       "tags": [
         "LANDR Blog"
@@ -53942,7 +53826,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
+      "url": "https://blog.landr.com/best-eq-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -53952,17 +53836,54 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:brainworx-bx-digital-v3",
+      "name": "Brainworx bx_digital V3",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -54639,6 +54560,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:crave-eq",
+      "name": "Crave EQ",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
       "id": "herzplatinedurchgebrannt/juce-crispy-linux",
       "name": "Crispy",
       "author": "herzplatinedurchgebrannt",
@@ -54937,6 +54895,43 @@
           "url": "https://blog.landr.com/free-vst-plugins-drums/",
           "date": "2023-01-02T19:54:31+00:00",
           "title": "15 Best Free Drum Kit VST Plugins for 2026"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:dmg-audio-equilibrium",
+      "name": "DMG Audio Equilibrium",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -55339,6 +55334,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:eventide-spliteq",
+      "name": "Eventide SplitEQ",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
       "id": "blog:bedroomproducersblog:fandust",
       "name": "FANDUST",
       "author": "Sunfish Software",
@@ -55543,43 +55575,6 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:guitar-rig-7-player",
-      "name": "Guitar Rig 7 Player",
-      "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
       "id": "eulmour/handyosc",
       "name": "HandyOsc",
       "author": "eulmour",
@@ -55703,6 +55698,43 @@
         }
       ],
       "mentions": []
+    },
+    {
+      "id": "blog:landr:hornet-trebande",
+      "name": "HoRNet TreBande",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
     },
     {
       "id": "christoskonstantas/htekdistortion",
@@ -55832,11 +55864,11 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:ik-multimedia-amplitube-5-cs",
-      "name": "IK Multimedia AmpliTube 5 CS",
+      "id": "blog:landr:ignite-amps-pteq-x",
+      "name": "Ignite Amps PTEq-X",
       "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
       "license": null,
       "tags": [
         "LANDR Blog"
@@ -55844,7 +55876,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
+      "url": "https://blog.landr.com/best-eq-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -55854,54 +55886,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:ik-multimedia-amplitube-cs",
-      "name": "IK Multimedia AmpliTube CS",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -55909,7 +55904,7 @@
       "id": "blog:landr:ik-multimedia-mixbox-se",
       "name": "IK Multimedia MixBox SE",
       "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -55918,7 +55913,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -55928,54 +55923,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:ik-multimedia-modo-bass-2-cs",
-      "name": "IK Multimedia MODO Bass 2 CS",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
@@ -56590,6 +56548,43 @@
       ]
     },
     {
+      "id": "blog:landr:klanghelm-mjuc-jr",
+      "name": "Klanghelm MJUC jr",
+      "author": "LANDR Blog",
+      "description": "The 15 Best Compressor Plugins For Every Mix Situation",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-compressor-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2020-05-22T20:10:19+00:00",
+      "updated": "2020-05-22T20:10:19+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-compressor-plugins/",
+          "date": "2020-05-22T20:10:19+00:00",
+          "title": "The 15 Best Compressor Plugins For Every Mix Situation"
+        }
+      ]
+    },
+    {
       "id": "blog:landr:lalals",
       "name": "Lalals",
       "author": "LANDR Blog",
@@ -56627,121 +56622,10 @@
       ]
     },
     {
-      "id": "blog:landr:landr-composer",
-      "name": "LANDR Composer",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:landr-fx-bass",
-      "name": "LANDR FX Bass",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:landr-fx-electric",
-      "name": "LANDR FX Electric",
-      "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:landr-guitar",
       "name": "LANDR Guitar",
       "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
+      "description": "The 10 Best Free VST Instruments to Get in 2026",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -56752,7 +56636,7 @@
       ],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
+      "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -56762,8 +56646,8 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
+      "date": "2023-01-24T16:44:12+00:00",
+      "updated": "2023-01-24T16:44:12+00:00",
       "language": null,
       "topics": [],
       "files": [],
@@ -56773,20 +56657,14 @@
           "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
           "date": "2023-01-24T16:44:12+00:00",
           "title": "The 10 Best Free VST Instruments to Get in 2026"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
         }
       ]
     },
     {
-      "id": "blog:landr:landr-strata",
-      "name": "LANDR Strata",
+      "id": "blog:landr:landr-voxchain",
+      "name": "LANDR VoxChain",
       "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -56795,7 +56673,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -56805,54 +56683,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:line-6-helix-native",
-      "name": "Line 6 Helix Native",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
@@ -56896,19 +56737,19 @@
       ]
     },
     {
-      "id": "blog:landr:logic-pro-s-amp-designer",
-      "name": "Logic Pro’s Amp Designer",
-      "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
+      "id": "blog:bedroomproducersblog:loft",
+      "name": "LOFT",
+      "author": "13x Audio",
+      "description": "13x Audio has released LOFT, a free vintage reverb plugin for macOS, Windows, and Linux that lets you draw how the tail moves over time. We've previously covered the developer's Aurora dynamic EQ and Colony multi-effect. LOFT now adds a reverb to its growing freeware collection, and it's not just a plain old reverb. It",
+      "kind": "effect",
       "license": null,
       "tags": [
-        "LANDR Blog"
+        "Bedroom Producers Blog"
       ],
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
+      "url": "https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -56918,17 +56759,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
+      "date": "2026-11-19T17:33:26",
+      "updated": "2026-11-19T17:33:26",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/",
+          "date": "2026-11-19T17:33:26",
+          "title": "13x Audio releases LOFT, a FREE vintage reverb with drawable envelopes"
         }
       ]
     },
@@ -57009,6 +56850,43 @@
       ]
     },
     {
+      "id": "blog:landr:melda-production-mequalizer",
+      "name": "Melda Production MEqualizer",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
       "id": "blog:bedroomproducersblog:merg",
       "name": "Merg",
       "author": "DZTL8",
@@ -57046,10 +56924,10 @@
       ]
     },
     {
-      "id": "blog:landr:mixbox-se",
-      "name": "MixBox SE",
+      "id": "blog:landr:metric-halo-channelstrip3",
+      "name": "Metric Halo ChannelStrip3",
       "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -57058,7 +56936,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -57068,17 +56946,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
@@ -57501,80 +57379,6 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:native-instruments-session-bassist-jam-bass",
-      "name": "Native Instruments Session Bassist Jam Bass",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:native-instruments-session-guitarist",
-      "name": "Native Instruments Session Guitarist",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "danielwray/neampmod-the-tweed",
       "name": "NEAMPMOD The Tweed",
       "author": "Daniel Wray",
@@ -57767,86 +57571,6 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:neural-dsp",
-      "name": "Neural DSP",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:neural-dsp-parallax-x",
-      "name": "Neural DSP Parallax X",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "clearly-broken-software/ninjas2",
       "name": "Ninjas 2",
       "author": "Clearly Broken",
@@ -57922,19 +57646,19 @@
       "mentions": []
     },
     {
-      "id": "blog:bedroomproducersblog:noshige73-lite",
-      "name": "noshige73 LITE",
-      "author": "noshigeSound",
-      "description": "noshigeSound has released noshige73, a 1073-style console EQ with a free LITE version for macOS and Windows. Before you continue reading, note that this plugin is very CPU-heavy. Using a GPU can reduce the load, but if that's not your style, feel free to skip this one. We previously covered the developer's ENHANCER VINTAGE-73 and",
-      "kind": "effect",
+      "id": "blog:landr:noiseash-need-73",
+      "name": "NoiseAsh NEED 73",
+      "author": "LANDR Blog",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
+      "kind": "plugin",
       "license": null,
       "tags": [
-        "Bedroom Producers Blog"
+        "LANDR Blog"
       ],
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -57944,17 +57668,54 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-11-10T12:57:09",
-      "updated": "2026-11-10T12:57:09",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/",
-          "date": "2026-11-10T12:57:09",
-          "title": "noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows"
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:noiseash-need-73-console-eq",
+      "name": "NoiseAsh NEED 73 Console EQ",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -58710,43 +58471,6 @@
       ]
     },
     {
-      "id": "blog:landr:positive-grid-bias-x",
-      "name": "Positive Grid Bias X",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "blog:bedroomproducersblog:preamble",
       "name": "Preamble",
       "author": "Reasonable Audio",
@@ -58943,43 +58667,6 @@
           "url": "https://blog.landr.com/free-vst-plugins-drums/",
           "date": "2023-01-02T19:54:31+00:00",
           "title": "15 Best Free Drum Kit VST Plugins for 2026"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:reason-studios-monotone",
-      "name": "Reason Studios Monotone",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -59940,6 +59627,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:sonnox-oxford-eq",
+      "name": "Sonnox Oxford EQ",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
       "id": "webprofusion/soundshed-guitar",
       "name": "Soundshed Guitar",
       "author": "Webprofusion",
@@ -60060,43 +59784,6 @@
       ]
     },
     {
-      "id": "blog:landr:spectrasonics-trillian",
-      "name": "Spectrasonics Trillian",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:spitfire-labs",
       "name": "Spitfire LABS",
       "author": "LANDR Blog",
@@ -60136,43 +59823,6 @@
       ]
     },
     {
-      "id": "blog:landr:spitfire-labs-bass-guitar",
-      "name": "Spitfire LABS Bass Guitar",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:spitfire-labs-drums",
       "name": "Spitfire LABS Drums",
       "author": "LANDR Blog",
@@ -60208,43 +59858,6 @@
           "url": "https://blog.landr.com/free-vst-plugins-drums/",
           "date": "2023-01-02T19:54:31+00:00",
           "title": "15 Best Free Drum Kit VST Plugins for 2026"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:spitfire-labs-electric-guitars",
-      "name": "Spitfire LABS Electric Guitars",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -60298,6 +59911,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:ssl-native-channel-strip-2",
+      "name": "SSL Native Channel Strip 2",
+      "author": "LANDR Blog",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
+      "kind": "plugin",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/channel-strip-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
+        }
+      ]
+    },
+    {
       "id": "blog:landr:steven-slate-drums",
       "name": "Steven Slate Drums",
       "author": "LANDR Blog",
@@ -60339,80 +59989,6 @@
           "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
           "date": "2023-01-24T16:44:12+00:00",
           "title": "The 10 Best Free VST Instruments to Get in 2026"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:strymon-iridium",
-      "name": "Strymon Iridium",
-      "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:sublab-xl",
-      "name": "SubLab XL",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
         }
       ]
     },
@@ -60586,6 +60162,80 @@
           "url": "https://blog.landr.com/free-vst-plugins-drums/",
           "date": "2023-01-02T19:54:31+00:00",
           "title": "15 Best Free Drum Kit VST Plugins for 2026"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:tdr-eq-plugins",
+      "name": "TDR EQ plugins",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
+      "id": "blog:landr:tdr-kotelnikov",
+      "name": "TDR Kotelnikov",
+      "author": "LANDR Blog",
+      "description": "The 15 Best Compressor Plugins For Every Mix Situation",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-compressor-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2020-05-22T20:10:19+00:00",
+      "updated": "2020-05-22T20:10:19+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-compressor-plugins/",
+          "date": "2020-05-22T20:10:19+00:00",
+          "title": "The 15 Best Compressor Plugins For Every Mix Situation"
         }
       ]
     },
@@ -61055,43 +60705,6 @@
       "mentions": []
     },
     {
-      "id": "blog:landr:u-he-diva",
-      "name": "U-He Diva",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:u-he-zebralette",
       "name": "U-He Zebralette",
       "author": "LANDR Blog",
@@ -61131,10 +60744,10 @@
       ]
     },
     {
-      "id": "blog:landr:uad-55-fender-tweed-deluxe",
-      "name": "UAD 55’ Fender Tweed Deluxe",
+      "id": "blog:landr:uad-api-vision-strip",
+      "name": "UAD API Vision Strip",
       "author": "LANDR Blog",
-      "description": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -61143,7 +60756,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -61153,25 +60766,25 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2024-07-19T19:35:01+00:00",
-      "updated": "2024-07-19T19:35:01+00:00",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-amp-simulator-plugins-pedals-guitar/",
-          "date": "2024-07-19T19:35:01+00:00",
-          "title": "The 11 Best Amp Simulator Plugins and Pedals for Guitar Tested and Approved"
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
     {
-      "id": "blog:landr:uad-tweed-and-plexi",
-      "name": "UAD Tweed and Plexi",
+      "id": "blog:landr:uad-manley-voxbox",
+      "name": "UAD Manley Voxbox",
       "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
       "kind": "plugin",
       "license": null,
       "tags": [
@@ -61180,7 +60793,7 @@
       "formats": [],
       "systems": [],
       "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
+      "url": "https://blog.landr.com/channel-strip-plugins/",
       "repo": null,
       "image": null,
       "audio": null,
@@ -61190,17 +60803,17 @@
       "source": "blog",
       "verified": false,
       "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
       "language": null,
       "topics": [],
       "files": [],
       "mentions": [
         {
           "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
         }
       ]
     },
@@ -61323,6 +60936,43 @@
         }
       ],
       "mentions": []
+    },
+    {
+      "id": "blog:bedroomproducersblog:uzat",
+      "name": "UZAT",
+      "author": "Audiolatry",
+      "description": "Audiolatry has released UZAT, a free lo-fi multi-effect plugin for Windows and macOS that adds movement, worn textures, and digital degradation to your audio. I'll start with the obvious here. The interface looks AI-coded, but Audiolatry has a solid track record of decent virtual instruments over the past few years, and UZAT worked well during",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/19/audiolatry-uzat/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-19T11:02:59",
+      "updated": "2026-11-19T11:02:59",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/19/audiolatry-uzat/",
+          "date": "2026-11-19T11:02:59",
+          "title": "Audiolatry releases UZAT, a FREE lo-fi multi-effect plugin for Windows and macOS"
+        }
+      ]
     },
     {
       "id": "blog:landr:valhalla-space-modulator",
@@ -61630,6 +61280,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:voxengo-eq-plugins",
+      "name": "Voxengo EQ plugins",
+      "author": "LANDR Blog",
+      "description": "The 15 Best EQ Plugins in 2026 (Free and Paid)",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/best-eq-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-01-26T20:54:15+00:00",
+      "updated": "2026-01-26T20:54:15+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-eq-plugins/",
+          "date": "2026-01-26T20:54:15+00:00",
+          "title": "The 15 Best EQ Plugins in 2026 (Free and Paid)"
+        }
+      ]
+    },
+    {
       "id": "sgossner/vsco-2-ce",
       "name": "VSCO 2 Community Edition",
       "author": "Versilian Studios",
@@ -61743,6 +61430,43 @@
       "mentions": []
     },
     {
+      "id": "blog:landr:waves-abbey-road-emi-tg12345-channel",
+      "name": "Waves Abbey Road EMI TG12345 Channel",
+      "author": "LANDR Blog",
+      "description": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels",
+      "kind": "plugin",
+      "license": null,
+      "tags": [
+        "LANDR Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://blog.landr.com/channel-strip-plugins/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2023-09-19T20:54:26+00:00",
+      "updated": "2023-09-19T20:54:26+00:00",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/channel-strip-plugins/",
+          "date": "2023-09-19T20:54:26+00:00",
+          "title": "Channel Strip Plugins: The 9 Best All-in-one Mixing Channels"
+        }
+      ]
+    },
+    {
       "id": "figbug/wavetable",
       "name": "Wavetable",
       "author": "Roland Rabien",
@@ -61824,80 +61548,6 @@
         }
       ],
       "mentions": []
-    },
-    {
-      "id": "blog:landr:xfer-serum-2",
-      "name": "Xfer Serum 2",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Bass Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-bass-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-02-09T21:38:55+00:00",
-      "updated": "2026-02-09T21:38:55+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
-      "id": "blog:landr:your-daw-s-built-in-guitar-plugins",
-      "name": "Your DAW’s built-in guitar plugins",
-      "author": "LANDR Blog",
-      "description": "The 14 Best Guitar Plugins in 2026 (Free and Paid)",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "LANDR Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://blog.landr.com/best-guitar-plugins/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-01-30T20:41:03+00:00",
-      "updated": "2026-01-30T20:41:03+00:00",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-guitar-plugins/",
-          "date": "2026-01-30T20:41:03+00:00",
-          "title": "The 14 Best Guitar Plugins in 2026 (Free and Paid)"
-        }
-      ]
     },
     {
       "id": "dspiveyvr/zenbleed",
