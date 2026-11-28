@@ -1,6 +1,6 @@
 {
   "name": "Racklist VST catalog",
-  "generatedAt": "2026-11-26T07:31:54.566Z",
+  "generatedAt": "2026-11-28T11:19:44.076Z",
   "criteria": {
     "batchSize": 100,
     "studiorackUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/index.json",
@@ -20,12 +20,12 @@
     ]
   },
   "counts": {
-    "total": 1004,
+    "total": 1002,
     "registry": 609,
-    "githubOnly": 305,
+    "githubOnly": 309,
     "both": 118,
-    "blog": 90,
-    "vst3": 772,
+    "blog": 84,
+    "vst3": 778,
     "clap": 232,
     "lv2": 174
   },
@@ -59,13 +59,13 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/werman/noise-suppression-for-voice/noise-suppression-for-voice.jpg",
       "audio": null,
       "downloads": 407066,
-      "stars": 6997,
+      "stars": 6998,
       "forks": 311,
       "source": "both",
       "verified": true,
       "archived": false,
       "date": "2024-05-18T18:10:22Z",
-      "updated": "2026-10-25T14:17:44Z",
+      "updated": "2026-11-26T20:31:34Z",
       "language": "C++",
       "topics": [
         "au-plugin",
@@ -150,13 +150,13 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/asb2m10/dexed/dexed.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/asb2m10/dexed/dexed.flac",
       "downloads": 417544,
-      "stars": 3687,
+      "stars": 3693,
       "forks": 323,
       "source": "both",
       "verified": true,
       "archived": false,
       "date": "2025-11-29T18:57:25Z",
-      "updated": "2026-11-25T22:14:57Z",
+      "updated": "2026-11-27T04:14:35Z",
       "language": "C++",
       "topics": [
         "dx7",
@@ -256,8 +256,8 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damrsn/neuralnote/neuralnote.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damrsn/neuralnote/neuralnote.flac",
       "downloads": 0,
-      "stars": 3541,
-      "forks": 259,
+      "stars": 3552,
+      "forks": 263,
       "source": "both",
       "verified": true,
       "archived": false,
@@ -339,13 +339,13 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 1083,
+      "stars": 1087,
       "forks": 47,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T05:30:28Z",
+      "updated": "2026-11-26T16:59:59Z",
       "language": "C++",
       "topics": [
         "audio-effect",
@@ -604,13 +604,13 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 630,
+      "stars": 631,
       "forks": 44,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T05:45:26Z",
+      "updated": "2026-11-28T00:45:42Z",
       "language": "TypeScript",
       "topics": [
         "audio-plugin",
@@ -742,7 +742,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lucianodato/noise-repellent/noise-repellent.jpg",
       "audio": null,
       "downloads": 1215,
-      "stars": 577,
+      "stars": 580,
       "forks": 42,
       "source": "both",
       "verified": true,
@@ -1142,7 +1142,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zamaudio/zam-plugins/zam-plugins.jpg",
       "audio": null,
       "downloads": 2154,
-      "stars": 326,
+      "stars": 327,
       "forks": 38,
       "source": "both",
       "verified": true,
@@ -1289,7 +1289,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/midilab/jc303/jc303.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/midilab/jc303/jc303.flac",
       "downloads": 9892,
-      "stars": 314,
+      "stars": 317,
       "forks": 20,
       "source": "both",
       "verified": true,
@@ -1530,7 +1530,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zlcompressor/zlcompressor.jpg",
       "audio": null,
       "downloads": 12796,
-      "stars": 234,
+      "stars": 236,
       "forks": 13,
       "source": "both",
       "verified": true,
@@ -1723,7 +1723,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kayrockscreenprinting/ultramaster-kr106/ultramaster-kr106.jpg",
       "audio": null,
       "downloads": 16505,
-      "stars": 205,
+      "stars": 206,
       "forks": 24,
       "source": "both",
       "verified": true,
@@ -2122,7 +2122,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zlsplitter/zlsplitter.jpg",
       "audio": null,
       "downloads": 7910,
-      "stars": 168,
+      "stars": 169,
       "forks": 7,
       "source": "both",
       "verified": true,
@@ -3101,7 +3101,7 @@
       "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ankalot/xenroll/xenroll.jpg",
       "audio": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ankalot/xenroll/xenroll.flac",
       "downloads": 152,
-      "stars": 97,
+      "stars": 98,
       "forks": 5,
       "source": "both",
       "verified": true,
@@ -3290,7 +3290,7 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 91,
+      "stars": 92,
       "forks": 6,
       "source": "github",
       "verified": false,
@@ -4170,7 +4170,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T03:16:13Z",
+      "updated": "2026-11-28T05:16:05Z",
       "language": "HTML",
       "topics": [
         "analog-synth",
@@ -4405,6 +4405,61 @@
       "mentions": []
     },
     {
+      "id": "innermost47/grm-guitar-vst",
+      "name": "grm-guitar-vst",
+      "author": "innermost47",
+      "description": "A physically modelled guitar as a free VST3 / standalone plugin: every string, pick, palm, finger, body and room is a GRM network solved in C++, with a guitar roll that writes notes string by string. JUCE, AGPL-3.0.",
+      "kind": "instrument",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/innermost47/grm-guitar-vst",
+      "repo": "innermost47/grm-guitar-vst",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 63,
+      "forks": 5,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T23:34:20Z",
+      "language": "C++",
+      "topics": [
+        "acoustic-guitar",
+        "agpl",
+        "audio-plugin",
+        "cpp",
+        "dsp",
+        "free-software",
+        "grm",
+        "guitar",
+        "juce",
+        "modal-synthesis",
+        "music-production",
+        "physical-modeling",
+        "room-acoustics",
+        "standalone",
+        "sympathetic-resonance",
+        "synthesizer"
+      ],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
+          "date": "2026-11-24T13:47:38",
+          "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux"
+        }
+      ]
+    },
+    {
       "id": "jurihock/stftpitchshiftplugin",
       "name": "stftPitchShift",
       "author": "Jürgen Hock",
@@ -4573,7 +4628,7 @@
       "audio": null,
       "downloads": 0,
       "stars": 61,
-      "forks": 8,
+      "forks": 9,
       "source": "github",
       "verified": false,
       "archived": false,
@@ -4592,6 +4647,97 @@
         "vst3"
       ],
       "files": [],
+      "mentions": []
+    },
+    {
+      "id": "igorski/transformant",
+      "name": "Transformant",
+      "author": "Igor Zinken",
+      "description": "A stereo formant filter effect, driven by oscillators and obliterated to gravel through bit crushing or wave shaping.",
+      "kind": "effect",
+      "license": "mit",
+      "tags": [
+        "Filter",
+        "Formant"
+      ],
+      "formats": [
+        "vst3",
+        "vst",
+        "au"
+      ],
+      "systems": [
+        "mac",
+        "win"
+      ],
+      "version": "1.1.0",
+      "url": "https://github.com/igorski/transformant",
+      "repo": "igorski/transformant",
+      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/transformant/transformant.jpg",
+      "audio": null,
+      "downloads": 544,
+      "stars": 60,
+      "forks": 5,
+      "source": "both",
+      "verified": true,
+      "archived": false,
+      "date": "2026-09-01T19:05:40Z",
+      "updated": "2026-09-01T19:05:40Z",
+      "language": "C++",
+      "topics": [
+        "audio",
+        "audio-processing",
+        "audio-unit",
+        "audiounit",
+        "cpp",
+        "daw",
+        "dsp",
+        "filter",
+        "formant",
+        "formants",
+        "linux",
+        "macos",
+        "steinberg",
+        "vst",
+        "vst-plugin",
+        "vst2-vst3"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_macos.zip",
+          "systems": [
+            "mac"
+          ],
+          "formats": [
+            "vst3",
+            "vst"
+          ],
+          "size": 7119678,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_windows.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [
+            "vst3",
+            "vst"
+          ],
+          "size": 1954890,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_windows.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [
+            "vst"
+          ],
+          "size": 1954890,
+          "type": "archive"
+        }
+      ],
       "mentions": []
     },
     {
@@ -4673,97 +4819,6 @@
       "mentions": []
     },
     {
-      "id": "igorski/transformant",
-      "name": "Transformant",
-      "author": "Igor Zinken",
-      "description": "A stereo formant filter effect, driven by oscillators and obliterated to gravel through bit crushing or wave shaping.",
-      "kind": "effect",
-      "license": "mit",
-      "tags": [
-        "Filter",
-        "Formant"
-      ],
-      "formats": [
-        "vst3",
-        "vst",
-        "au"
-      ],
-      "systems": [
-        "mac",
-        "win"
-      ],
-      "version": "1.1.0",
-      "url": "https://github.com/igorski/transformant",
-      "repo": "igorski/transformant",
-      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/transformant/transformant.jpg",
-      "audio": null,
-      "downloads": 544,
-      "stars": 59,
-      "forks": 5,
-      "source": "both",
-      "verified": true,
-      "archived": false,
-      "date": "2026-09-01T19:05:40Z",
-      "updated": "2026-09-01T19:05:40Z",
-      "language": "C++",
-      "topics": [
-        "audio",
-        "audio-processing",
-        "audio-unit",
-        "audiounit",
-        "cpp",
-        "daw",
-        "dsp",
-        "filter",
-        "formant",
-        "formants",
-        "linux",
-        "macos",
-        "steinberg",
-        "vst",
-        "vst-plugin",
-        "vst2-vst3"
-      ],
-      "files": [
-        {
-          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_macos.zip",
-          "systems": [
-            "mac"
-          ],
-          "formats": [
-            "vst3",
-            "vst"
-          ],
-          "size": 7119678,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_windows.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [
-            "vst3",
-            "vst"
-          ],
-          "size": 1954890,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/igorski/transformant/releases/download/1.1.0/transformant.1.1.0_windows.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [
-            "vst"
-          ],
-          "size": 1954890,
-          "type": "archive"
-        }
-      ],
-      "mentions": []
-    },
-    {
       "id": "qbroquetas/iv-xdelay",
       "name": "IV-XDelay",
       "author": "qbroquetas",
@@ -4781,7 +4836,7 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 58,
+      "stars": 59,
       "forks": 3,
       "source": "github",
       "verified": false,
@@ -4796,6 +4851,44 @@
         "linux",
         "tape-delay",
         "vst"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "wamphyre/oxygen",
+      "name": "oXygen",
+      "author": "Wamphyre",
+      "description": "oXygen is a free and open-source mastering plugin built with C++ and JUCE. The project is focused on a practical mastering workflow: corrective EQ, multiband control, stereo shaping, final loudness, and an automatic Master Assistant that listens to the incoming mix and writes settings into the modules.",
+      "kind": "effect",
+      "license": "bsd-3-clause",
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Wamphyre/oXygen",
+      "repo": "wamphyre/oxygen",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 57,
+      "forks": 3,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-09-08T16:26:11Z",
+      "language": "C++",
+      "topics": [
+        "audio",
+        "daw",
+        "linux",
+        "macos",
+        "mastering",
+        "vst3-plugin",
+        "windows"
       ],
       "files": [],
       "mentions": []
@@ -4876,44 +4969,6 @@
           "type": "archive"
         }
       ],
-      "mentions": []
-    },
-    {
-      "id": "wamphyre/oxygen",
-      "name": "oXygen",
-      "author": "Wamphyre",
-      "description": "oXygen is a free and open-source mastering plugin built with C++ and JUCE. The project is focused on a practical mastering workflow: corrective EQ, multiband control, stereo shaping, final loudness, and an automatic Master Assistant that listens to the incoming mix and writes settings into the modules.",
-      "kind": "effect",
-      "license": "bsd-3-clause",
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Wamphyre/oXygen",
-      "repo": "wamphyre/oxygen",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 56,
-      "forks": 3,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-09-08T16:26:11Z",
-      "language": "C++",
-      "topics": [
-        "audio",
-        "daw",
-        "linux",
-        "macos",
-        "mastering",
-        "vst3-plugin",
-        "windows"
-      ],
-      "files": [],
       "mentions": []
     },
     {
@@ -5301,61 +5356,6 @@
       "mentions": []
     },
     {
-      "id": "innermost47/grm-guitar-vst",
-      "name": "grm-guitar-vst",
-      "author": "innermost47",
-      "description": "A physically modelled guitar as a free VST3 / standalone plugin: every string, pick, palm, finger, body and room is a GRM network solved in C++, with a guitar roll that writes notes string by string. JUCE, AGPL-3.0.",
-      "kind": "instrument",
-      "license": "agpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/innermost47/grm-guitar-vst",
-      "repo": "innermost47/grm-guitar-vst",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 49,
-      "forks": 4,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-25T19:14:01Z",
-      "language": "C++",
-      "topics": [
-        "acoustic-guitar",
-        "agpl",
-        "audio-plugin",
-        "cpp",
-        "dsp",
-        "free-software",
-        "grm",
-        "guitar",
-        "juce",
-        "modal-synthesis",
-        "music-production",
-        "physical-modeling",
-        "room-acoustics",
-        "standalone",
-        "sympathetic-resonance",
-        "synthesizer"
-      ],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
-          "date": "2026-11-24T13:47:38",
-          "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux"
-        }
-      ]
-    },
-    {
       "id": "thgrund/tidalvst",
       "name": "TidalVST",
       "author": "thgrund",
@@ -5422,7 +5422,7 @@
       "verified": true,
       "archived": false,
       "date": "2026-05-05T21:05:45Z",
-      "updated": "2026-11-25T13:46:14Z",
+      "updated": "2026-11-27T20:23:20Z",
       "language": "C++",
       "topics": [
         "audio-plugin",
@@ -5531,6 +5531,42 @@
         "audio-processing",
         "dsp",
         "juce"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "polarity/plugin.nih.polarity-sc-dark",
+      "name": "plugin.nih.polarity-sc-dark",
+      "author": "polarity",
+      "description": "Spectral Compressor with per-bin upward and downward compression, pink-noise shaping, sidechain spectral matching, freeze, and IR export. Download VST3 and CLAP for Windows, macOS, and Linux.",
+      "kind": "effect",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "clap"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/polarity/plugin.nih.polarity-sc-dark",
+      "repo": "polarity/plugin.nih.polarity-sc-dark",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 47,
+      "forks": 7,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-05-22T16:59:59Z",
+      "language": "Rust",
+      "topics": [
+        "audio-processing",
+        "clap",
+        "plugin",
+        "vst3"
       ],
       "files": [],
       "mentions": []
@@ -5785,42 +5821,6 @@
       "mentions": []
     },
     {
-      "id": "polarity/plugin.nih.polarity-sc-dark",
-      "name": "plugin.nih.polarity-sc-dark",
-      "author": "polarity",
-      "description": "Spectral Compressor with per-bin upward and downward compression, pink-noise shaping, sidechain spectral matching, freeze, and IR export. Download VST3 and CLAP for Windows, macOS, and Linux.",
-      "kind": "effect",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "clap"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/polarity/plugin.nih.polarity-sc-dark",
-      "repo": "polarity/plugin.nih.polarity-sc-dark",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 45,
-      "forks": 7,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-05-22T16:59:59Z",
-      "language": "Rust",
-      "topics": [
-        "audio-processing",
-        "clap",
-        "plugin",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "vividfeverdreams/vfd-plugin-suite",
       "name": "vfd-plugin-suite",
       "author": "vividfeverdreams",
@@ -5960,7 +5960,7 @@
       "audio": null,
       "downloads": 0,
       "stars": 42,
-      "forks": 4,
+      "forks": 5,
       "source": "github",
       "verified": false,
       "archived": false,
@@ -6647,6 +6647,51 @@
       "mentions": []
     },
     {
+      "id": "loursy/ampforge",
+      "name": "AmpForge",
+      "author": "Loursy",
+      "description": "Open-source guitar amp simulator plugin for Linux & Windows — VST3/LV2/CLAP, with a reorderable pedalboard chain (amp, cab IR, drive, mod, delay/reverb)",
+      "kind": "effect",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "clap",
+        "lv2"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Loursy/AmpForge",
+      "repo": "loursy/ampforge",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 36,
+      "forks": 4,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-10-28T15:49:33Z",
+      "language": "C++",
+      "topics": [
+        "amp-simulator",
+        "audio-plugin",
+        "clap",
+        "cpp",
+        "dsp",
+        "guitar",
+        "jack",
+        "linux-audio",
+        "lv2",
+        "music-production",
+        "pipewire",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "astriiddev/bitdos-vst",
       "name": "BitDOS-VST",
       "author": "astriiddev",
@@ -6729,46 +6774,51 @@
       "mentions": []
     },
     {
-      "id": "loursy/ampforge",
-      "name": "AmpForge",
-      "author": "Loursy",
-      "description": "Open-source guitar amp simulator plugin for Linux & Windows — VST3/LV2/CLAP, with a reorderable pedalboard chain (amp, cab IR, drive, mod, delay/reverb)",
-      "kind": "effect",
-      "license": "gpl-3.0",
+      "id": "nicoferni/snaptune",
+      "name": "snaptune",
+      "author": "NicoFerni",
+      "description": "Free, open-source autotune (real-time pitch correction) plugin for vocals: VST3, AU and LV2 for macOS, Windows and Linux. Hard tune to natural, 2.7 ms Live mode.",
+      "kind": "plugin",
+      "license": "agpl-3.0",
       "tags": [],
       "formats": [
         "vst3",
-        "clap",
-        "lv2"
+        "lv2",
+        "au",
+        "vst"
       ],
       "systems": [],
       "version": null,
-      "url": "https://github.com/Loursy/AmpForge",
-      "repo": "loursy/ampforge",
+      "url": "https://github.com/NicoFerni/snaptune",
+      "repo": "nicoferni/snaptune",
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 35,
+      "stars": 36,
       "forks": 4,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-10-28T15:49:33Z",
-      "language": "C++",
+      "updated": "2026-11-27T22:53:50Z",
+      "language": "TypeScript",
       "topics": [
-        "amp-simulator",
         "audio-plugin",
-        "clap",
-        "cpp",
+        "audio-unit",
+        "autotune",
         "dsp",
-        "guitar",
-        "jack",
+        "fl-studio",
+        "free-autotune",
+        "juce",
+        "linux",
         "linux-audio",
         "lv2",
-        "music-production",
-        "pipewire",
-        "vst3"
+        "macos",
+        "pitch-correction",
+        "vocal-processing",
+        "vst-plugin",
+        "vst3",
+        "windows"
       ],
       "files": [],
       "mentions": []
@@ -7185,6 +7235,43 @@
       "mentions": []
     },
     {
+      "id": "tomderham/curve",
+      "name": "curve",
+      "author": "tomderham",
+      "description": "Menu bar macOS app that hosts audio plugins",
+      "kind": "plugin",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/tomderham/curve",
+      "repo": "tomderham/curve",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 33,
+      "forks": 1,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T00:41:42Z",
+      "language": "C++",
+      "topics": [
+        "au",
+        "audio",
+        "host",
+        "macos",
+        "plugin",
+        "vst"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "varcain/guitarrackcraft",
       "name": "GuitarRackCraft",
       "author": "Varcain",
@@ -7468,43 +7555,6 @@
       "mentions": []
     },
     {
-      "id": "tomderham/curve",
-      "name": "curve",
-      "author": "tomderham",
-      "description": "Menu bar macOS app that hosts audio plugins",
-      "kind": "plugin",
-      "license": "agpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/tomderham/curve",
-      "repo": "tomderham/curve",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 31,
-      "forks": 1,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-26T05:47:30Z",
-      "language": "C++",
-      "topics": [
-        "au",
-        "audio",
-        "host",
-        "macos",
-        "plugin",
-        "vst"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "danja/downspout",
       "name": "downspout",
       "author": "danja",
@@ -7528,7 +7578,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T19:46:47Z",
+      "updated": "2026-11-27T15:20:38Z",
       "language": "C++",
       "topics": [
         "daw",
@@ -7575,6 +7625,70 @@
         "juce"
       ],
       "files": [],
+      "mentions": []
+    },
+    {
+      "id": "longkelvin/midi-chord-detector-plugin",
+      "name": "MIDI Chord Detector",
+      "author": "kelvin",
+      "description": "Lightweight MIDI plugin for real-time chord detection in DAWs, with a full piano keyboard view, grand staff notation panel, and active notes monitor",
+      "kind": "tool",
+      "license": "mit",
+      "tags": [
+        "Chord Recognition",
+        "MIDI",
+        "Notation"
+      ],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [
+        "win"
+      ],
+      "version": "3.1.0",
+      "url": "https://github.com/LongKelvin/midi-chord-detector-plugin",
+      "repo": "longkelvin/midi-chord-detector-plugin",
+      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/longkelvin/midi-chord-detector-plugin/midi-chord-detector-plugin.jpg",
+      "audio": null,
+      "downloads": 513,
+      "stars": 30,
+      "forks": 2,
+      "source": "both",
+      "verified": true,
+      "archived": false,
+      "date": "2026-05-25T16:38:45Z",
+      "updated": "2026-09-06T02:33:15Z",
+      "language": "C++",
+      "topics": [
+        "chord-recognition",
+        "daw",
+        "midi",
+        "music",
+        "music-production-tools",
+        "vst3"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/LongKelvin/midi-chord-detector-plugin/releases/download/v3.1.0-instrument/MIDI.Chord.Detector.Standalone_v3.1.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [],
+          "size": 3029699,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/LongKelvin/midi-chord-detector-plugin/releases/download/v3.1.0-instrument/MIDI_Chord_Detector_v3.1.vst3.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [
+            "vst3"
+          ],
+          "size": 2542271,
+          "type": "archive"
+        }
+      ],
       "mentions": []
     },
     {
@@ -7777,56 +7891,6 @@
       "mentions": []
     },
     {
-      "id": "nicoferni/snaptune",
-      "name": "snaptune",
-      "author": "NicoFerni",
-      "description": "Free, open-source autotune (real-time pitch correction) plugin for vocals: VST3, AU and LV2 for macOS, Windows and Linux. Hard tune to natural, 2.7 ms Live mode.",
-      "kind": "plugin",
-      "license": "agpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "lv2",
-        "au",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/NicoFerni/snaptune",
-      "repo": "nicoferni/snaptune",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 30,
-      "forks": 2,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-19T16:43:30Z",
-      "language": "TypeScript",
-      "topics": [
-        "audio-plugin",
-        "audio-unit",
-        "autotune",
-        "dsp",
-        "fl-studio",
-        "free-autotune",
-        "juce",
-        "linux",
-        "linux-audio",
-        "lv2",
-        "macos",
-        "pitch-correction",
-        "vocal-processing",
-        "vst-plugin",
-        "vst3",
-        "windows"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "studiorack/studiorack-cli",
       "name": "studiorack-cli",
       "author": "studiorack",
@@ -7861,70 +7925,6 @@
         "vst3"
       ],
       "files": [],
-      "mentions": []
-    },
-    {
-      "id": "longkelvin/midi-chord-detector-plugin",
-      "name": "MIDI Chord Detector",
-      "author": "kelvin",
-      "description": "Lightweight MIDI plugin for real-time chord detection in DAWs, with a full piano keyboard view, grand staff notation panel, and active notes monitor",
-      "kind": "tool",
-      "license": "mit",
-      "tags": [
-        "Chord Recognition",
-        "MIDI",
-        "Notation"
-      ],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [
-        "win"
-      ],
-      "version": "3.1.0",
-      "url": "https://github.com/LongKelvin/midi-chord-detector-plugin",
-      "repo": "longkelvin/midi-chord-detector-plugin",
-      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/longkelvin/midi-chord-detector-plugin/midi-chord-detector-plugin.jpg",
-      "audio": null,
-      "downloads": 513,
-      "stars": 29,
-      "forks": 2,
-      "source": "both",
-      "verified": true,
-      "archived": false,
-      "date": "2026-05-25T16:38:45Z",
-      "updated": "2026-09-06T02:33:15Z",
-      "language": "C++",
-      "topics": [
-        "chord-recognition",
-        "daw",
-        "midi",
-        "music",
-        "music-production-tools",
-        "vst3"
-      ],
-      "files": [
-        {
-          "url": "https://github.com/LongKelvin/midi-chord-detector-plugin/releases/download/v3.1.0-instrument/MIDI.Chord.Detector.Standalone_v3.1.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [],
-          "size": 3029699,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/LongKelvin/midi-chord-detector-plugin/releases/download/v3.1.0-instrument/MIDI_Chord_Detector_v3.1.vst3.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [
-            "vst3"
-          ],
-          "size": 2542271,
-          "type": "archive"
-        }
-      ],
       "mentions": []
     },
     {
@@ -7981,13 +7981,13 @@
       "image": null,
       "audio": null,
       "downloads": 0,
-      "stars": 28,
+      "stars": 29,
       "forks": 0,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T05:12:58Z",
+      "updated": "2026-11-28T02:12:27Z",
       "language": "C++",
       "topics": [
         "audio",
@@ -8214,6 +8214,52 @@
       "mentions": []
     },
     {
+      "id": "shirohata/vc-rs",
+      "name": "vc-rs",
+      "author": "shirohata",
+      "description": "Real-time RVC voice changer in Rust: standalone GUI, CLI, and VST3 plugin running ONNX models on Windows ML or TensorRT",
+      "kind": "plugin",
+      "license": "mit",
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/shirohata/vc-rs",
+      "repo": "shirohata/vc-rs",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 27,
+      "forks": 5,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-05T17:26:56Z",
+      "language": "Rust",
+      "topics": [
+        "audio",
+        "directml",
+        "dsp",
+        "egui",
+        "gpu",
+        "onnx",
+        "onnxruntime",
+        "realtime",
+        "rust",
+        "rvc",
+        "speech",
+        "tensorrt",
+        "voice-changer",
+        "voice-conversion",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "spatial-media-lab/openspatialdelay",
       "name": "OpenSpatialDelay",
       "author": "Spatial Media Lab",
@@ -8326,52 +8372,6 @@
         "vst",
         "wavetable",
         "wavetable-synthesizer"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "shirohata/vc-rs",
-      "name": "vc-rs",
-      "author": "shirohata",
-      "description": "Real-time RVC voice changer in Rust: standalone GUI, CLI, and VST3 plugin running ONNX models on Windows ML or TensorRT",
-      "kind": "plugin",
-      "license": "mit",
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/shirohata/vc-rs",
-      "repo": "shirohata/vc-rs",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 26,
-      "forks": 4,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-05T17:26:56Z",
-      "language": "Rust",
-      "topics": [
-        "audio",
-        "directml",
-        "dsp",
-        "egui",
-        "gpu",
-        "onnx",
-        "onnxruntime",
-        "realtime",
-        "rust",
-        "rvc",
-        "speech",
-        "tensorrt",
-        "voice-changer",
-        "voice-conversion",
-        "vst3"
       ],
       "files": [],
       "mentions": []
@@ -8541,7 +8541,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-09-05T07:31:48Z",
+      "updated": "2026-11-28T08:44:10Z",
       "language": "C++",
       "topics": [
         "acoustics",
@@ -9501,7 +9501,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T05:30:09Z",
+      "updated": "2026-11-27T05:30:28Z",
       "language": "C#",
       "topics": [
         "flatpak",
@@ -9549,6 +9549,49 @@
         "nih-plug",
         "rust",
         "typescript",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "qing-audio/plugin-nurse-qq-chainscope-release",
+      "name": "Plugin-Nurse-QQ-ChainScope-Release",
+      "author": "Qing-Audio",
+      "description": "插件护士：响度与音色匹配、多轨对比混合、频谱波形与遮蔽分析。QQ ChainScope: loudness/tone matching, multitrack comparison, mixing and masking analysis.",
+      "kind": "tool",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3",
+        "au"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Qing-Audio/Plugin-Nurse-QQ-ChainScope-Release",
+      "repo": "qing-audio/plugin-nurse-qq-chainscope-release",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 22,
+      "forks": null,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T21:28:38Z",
+      "language": null,
+      "topics": [
+        "audio-analysis",
+        "audio-hardware",
+        "audio-plugin",
+        "audio-unit",
+        "daw",
+        "latency-compensation",
+        "mixing",
+        "phase-alignment",
+        "qing-audio",
+        "spectrum-analyzer",
         "vst3"
       ],
       "files": [],
@@ -10080,49 +10123,6 @@
       "mentions": []
     },
     {
-      "id": "qing-audio/plugin-nurse-qq-chainscope-release",
-      "name": "Plugin-Nurse-QQ-ChainScope-Release",
-      "author": "Qing-Audio",
-      "description": "插件护士：响度与音色匹配、多轨对比混合、频谱波形与遮蔽分析。QQ ChainScope: loudness/tone matching, multitrack comparison, mixing and masking analysis.",
-      "kind": "tool",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3",
-        "au"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Qing-Audio/Plugin-Nurse-QQ-ChainScope-Release",
-      "repo": "qing-audio/plugin-nurse-qq-chainscope-release",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 20,
-      "forks": null,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-22T12:19:32Z",
-      "language": null,
-      "topics": [
-        "audio-analysis",
-        "audio-hardware",
-        "audio-plugin",
-        "audio-unit",
-        "daw",
-        "latency-compensation",
-        "mixing",
-        "phase-alignment",
-        "qing-audio",
-        "spectrum-analyzer",
-        "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "fake-industries/fuzzball",
       "name": "Fuzz Ball",
       "author": "Fake Industries",
@@ -10257,6 +10257,44 @@
           "type": "archive"
         }
       ],
+      "mentions": []
+    },
+    {
+      "id": "elk-audio/mda-vst2",
+      "name": "mda-vst2",
+      "author": "elk-audio",
+      "description": "MDA plugins in VST 2.4 format, adapted to use CMake and targeted at Linux systems",
+      "kind": "plugin",
+      "license": "mit",
+      "tags": [],
+      "formats": [
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/elk-audio/mda-vst2",
+      "repo": "elk-audio/mda-vst2",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 19,
+      "forks": 3,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2019-12-23T17:46:18Z",
+      "language": "Objective-C",
+      "topics": [
+        "elk",
+        "elk-audio",
+        "linux",
+        "mda",
+        "mda-plugins",
+        "vst",
+        "vst-plugin"
+      ],
+      "files": [],
       "mentions": []
     },
     {
@@ -10420,44 +10458,6 @@
         "juce",
         "music-production",
         "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "elk-audio/mda-vst2",
-      "name": "mda-vst2",
-      "author": "elk-audio",
-      "description": "MDA plugins in VST 2.4 format, adapted to use CMake and targeted at Linux systems",
-      "kind": "plugin",
-      "license": "mit",
-      "tags": [],
-      "formats": [
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/elk-audio/mda-vst2",
-      "repo": "elk-audio/mda-vst2",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 18,
-      "forks": 3,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2019-12-23T17:46:18Z",
-      "language": "Objective-C",
-      "topics": [
-        "elk",
-        "elk-audio",
-        "linux",
-        "mda",
-        "mda-plugins",
-        "vst",
-        "vst-plugin"
       ],
       "files": [],
       "mentions": []
@@ -10936,12 +10936,12 @@
       "audio": null,
       "downloads": 0,
       "stars": 16,
-      "forks": 2,
+      "forks": 3,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-22T20:08:38Z",
+      "updated": "2026-11-28T09:31:52Z",
       "language": "Rust",
       "topics": [
         "audio-plugin",
@@ -11677,12 +11677,12 @@
       "audio": null,
       "downloads": 0,
       "stars": 15,
-      "forks": null,
+      "forks": 1,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-22T00:51:53Z",
+      "updated": "2026-11-28T07:59:07Z",
       "language": "Rust",
       "topics": [
         "audio",
@@ -13300,6 +13300,75 @@
       "mentions": []
     },
     {
+      "id": "maurocosentino/lupex-analog-delay",
+      "name": "Lupex Delay",
+      "author": "Mauro Cosentino",
+      "description": "Analog BBD-style delay VST3 plugin built with JUCE, inspired by classic bucket brigade pedals.",
+      "kind": "effect",
+      "license": "mit",
+      "tags": [
+        "Analog",
+        "BBD",
+        "Delay",
+        "Pedal"
+      ],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [
+        "linux",
+        "win"
+      ],
+      "version": "1.1.0",
+      "url": "https://github.com/maurocosentino/lupex-analog-delay",
+      "repo": "maurocosentino/lupex-analog-delay",
+      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/maurocosentino/lupex-analog-delay/lupex-analog-delay.jpg",
+      "audio": null,
+      "downloads": 627,
+      "stars": 11,
+      "forks": 1,
+      "source": "both",
+      "verified": true,
+      "archived": false,
+      "date": "2026-05-01T01:12:11Z",
+      "updated": "2026-05-01T19:00:19Z",
+      "language": "C++",
+      "topics": [
+        "analog",
+        "bbd",
+        "delay",
+        "mxr",
+        "pedal",
+        "plugin",
+        "vst3"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/maurocosentino/lupex-analog-delay/releases/download/v1.1.0/Lupex-Linux-VST3.zip",
+          "systems": [
+            "linux"
+          ],
+          "formats": [
+            "vst3"
+          ],
+          "size": 4077998,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/maurocosentino/lupex-analog-delay/releases/download/v1.1.0/Lupex-Windows-VST3.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [
+            "vst3"
+          ],
+          "size": 4268667,
+          "type": "archive"
+        }
+      ],
+      "mentions": []
+    },
+    {
       "id": "davemollen/dm-whammy",
       "name": "dm-Whammy",
       "author": "Dave Mollen",
@@ -13534,6 +13603,99 @@
             "lv2"
           ],
           "size": 7306971,
+          "type": "archive"
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "mukkemann1972/retrotrax",
+      "name": "RetroTrax",
+      "author": "Mukkemann1972",
+      "description": "A tracker plugin and standalone app in the spirit of ProTracker, FastTracker II, and OctaMED, with Amiga sample sound and C64 SID chip emulation.",
+      "kind": "instrument",
+      "license": "gpl-3.0",
+      "tags": [
+        "Amiga",
+        "Chiptune",
+        "Demoscene",
+        "Tracker",
+        "Sid"
+      ],
+      "formats": [
+        "vst3",
+        "clap"
+      ],
+      "systems": [
+        "linux",
+        "mac",
+        "win"
+      ],
+      "version": "0.92.0",
+      "url": "https://github.com/Mukkemann1972/retrotrax",
+      "repo": "mukkemann1972/retrotrax",
+      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mukkemann1972/retrotrax/retrotrax.jpg",
+      "audio": null,
+      "downloads": 277,
+      "stars": 11,
+      "forks": 0,
+      "source": "both",
+      "verified": true,
+      "archived": false,
+      "date": "2026-08-25T19:50:23Z",
+      "updated": "2026-10-09T23:02:41Z",
+      "language": "C++",
+      "topics": [
+        "amiga",
+        "audio-plugin",
+        "c64",
+        "chiptune",
+        "daw",
+        "demoscene",
+        "fasttracker",
+        "juce",
+        "music-production",
+        "music-tracker",
+        "protracker",
+        "sid",
+        "tracker",
+        "vst3"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-Linux-0.92.0.zip",
+          "systems": [
+            "linux"
+          ],
+          "formats": [
+            "vst3",
+            "clap"
+          ],
+          "size": 24508071,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-macOS-0.92.0.zip",
+          "systems": [
+            "mac"
+          ],
+          "formats": [
+            "vst3",
+            "clap"
+          ],
+          "size": 19739801,
+          "type": "archive"
+        },
+        {
+          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-Windows-0.92.0.zip",
+          "systems": [
+            "win"
+          ],
+          "formats": [
+            "vst3",
+            "clap"
+          ],
+          "size": 14053305,
           "type": "archive"
         }
       ],
@@ -13797,7 +13959,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-20T20:31:57Z",
+      "updated": "2026-11-28T09:25:53Z",
       "language": "C++",
       "topics": [
         "audio-plugin",
@@ -13884,17 +14046,20 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T01:35:10Z",
+      "updated": "2026-11-26T18:23:58Z",
       "language": "C++",
       "topics": [
         "audio-effect",
+        "audio-plugin",
         "delay",
         "juce",
         "juce-framework",
         "juce-plugin",
         "juce-plugins",
         "vst",
-        "vst3"
+        "vst3",
+        "vst3-plugin",
+        "vst3-plugins"
       ],
       "files": [],
       "mentions": []
@@ -14023,75 +14188,6 @@
         "vst3"
       ],
       "files": [],
-      "mentions": []
-    },
-    {
-      "id": "maurocosentino/lupex-analog-delay",
-      "name": "Lupex Delay",
-      "author": "Mauro Cosentino",
-      "description": "Analog BBD-style delay VST3 plugin built with JUCE, inspired by classic bucket brigade pedals.",
-      "kind": "effect",
-      "license": "mit",
-      "tags": [
-        "Analog",
-        "BBD",
-        "Delay",
-        "Pedal"
-      ],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [
-        "linux",
-        "win"
-      ],
-      "version": "1.1.0",
-      "url": "https://github.com/maurocosentino/lupex-analog-delay",
-      "repo": "maurocosentino/lupex-analog-delay",
-      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/maurocosentino/lupex-analog-delay/lupex-analog-delay.jpg",
-      "audio": null,
-      "downloads": 627,
-      "stars": 10,
-      "forks": 1,
-      "source": "both",
-      "verified": true,
-      "archived": false,
-      "date": "2026-05-01T01:12:11Z",
-      "updated": "2026-05-01T19:00:19Z",
-      "language": "C++",
-      "topics": [
-        "analog",
-        "bbd",
-        "delay",
-        "mxr",
-        "pedal",
-        "plugin",
-        "vst3"
-      ],
-      "files": [
-        {
-          "url": "https://github.com/maurocosentino/lupex-analog-delay/releases/download/v1.1.0/Lupex-Linux-VST3.zip",
-          "systems": [
-            "linux"
-          ],
-          "formats": [
-            "vst3"
-          ],
-          "size": 4077998,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/maurocosentino/lupex-analog-delay/releases/download/v1.1.0/Lupex-Windows-VST3.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [
-            "vst3"
-          ],
-          "size": 4268667,
-          "type": "archive"
-        }
-      ],
       "mentions": []
     },
     {
@@ -14490,6 +14586,56 @@
         }
       ],
       "mentions": []
+    },
+    {
+      "id": "atsushieno/aap-juce-vital",
+      "name": "aap-juce-vital",
+      "author": "atsushieno",
+      "description": "port of Vi(t)al to Audio Plugins For Android (AAP)",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/atsushieno/aap-juce-vital",
+      "repo": "atsushieno/aap-juce-vital",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 10,
+      "forks": 4,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-04-25T04:58:09Z",
+      "language": "Makefile",
+      "topics": [
+        "aap",
+        "aap-juce",
+        "android",
+        "audio",
+        "audio-plugin",
+        "juce"
+      ],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
+          "date": "2023-01-24T16:44:12+00:00",
+          "title": "The 10 Best Free VST Instruments to Get in 2026"
+        },
+        {
+          "blog": "LANDR Blog",
+          "url": "https://blog.landr.com/best-bass-plugins/",
+          "date": "2026-02-09T21:38:55+00:00",
+          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
+        }
+      ]
     },
     {
       "id": "mariusz96/blue-synthesiser",
@@ -15320,99 +15466,6 @@
       "mentions": []
     },
     {
-      "id": "mukkemann1972/retrotrax",
-      "name": "RetroTrax",
-      "author": "Mukkemann1972",
-      "description": "A tracker plugin and standalone app in the spirit of ProTracker, FastTracker II, and OctaMED, with Amiga sample sound and C64 SID chip emulation.",
-      "kind": "instrument",
-      "license": "gpl-3.0",
-      "tags": [
-        "Amiga",
-        "Chiptune",
-        "Demoscene",
-        "Tracker",
-        "Sid"
-      ],
-      "formats": [
-        "vst3",
-        "clap"
-      ],
-      "systems": [
-        "linux",
-        "mac",
-        "win"
-      ],
-      "version": "0.92.0",
-      "url": "https://github.com/Mukkemann1972/retrotrax",
-      "repo": "mukkemann1972/retrotrax",
-      "image": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mukkemann1972/retrotrax/retrotrax.jpg",
-      "audio": null,
-      "downloads": 277,
-      "stars": 9,
-      "forks": 0,
-      "source": "both",
-      "verified": true,
-      "archived": false,
-      "date": "2026-08-25T19:50:23Z",
-      "updated": "2026-10-09T23:02:41Z",
-      "language": "C++",
-      "topics": [
-        "amiga",
-        "audio-plugin",
-        "c64",
-        "chiptune",
-        "daw",
-        "demoscene",
-        "fasttracker",
-        "juce",
-        "music-production",
-        "music-tracker",
-        "protracker",
-        "sid",
-        "tracker",
-        "vst3"
-      ],
-      "files": [
-        {
-          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-Linux-0.92.0.zip",
-          "systems": [
-            "linux"
-          ],
-          "formats": [
-            "vst3",
-            "clap"
-          ],
-          "size": 24508071,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-macOS-0.92.0.zip",
-          "systems": [
-            "mac"
-          ],
-          "formats": [
-            "vst3",
-            "clap"
-          ],
-          "size": 19739801,
-          "type": "archive"
-        },
-        {
-          "url": "https://github.com/Mukkemann1972/retrotrax/releases/download/v0.92.0/RetroTrax-Windows-0.92.0.zip",
-          "systems": [
-            "win"
-          ],
-          "formats": [
-            "vst3",
-            "clap"
-          ],
-          "size": 14053305,
-          "type": "archive"
-        }
-      ],
-      "mentions": []
-    },
-    {
       "id": "spatian-dev/artix",
       "name": "Artix",
       "author": "Spatian.dev",
@@ -15561,56 +15614,6 @@
       "mentions": []
     },
     {
-      "id": "atsushieno/aap-juce-vital",
-      "name": "aap-juce-vital",
-      "author": "atsushieno",
-      "description": "port of Vi(t)al to Audio Plugins For Android (AAP)",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/atsushieno/aap-juce-vital",
-      "repo": "atsushieno/aap-juce-vital",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 9,
-      "forks": 3,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-04-25T04:58:09Z",
-      "language": "Makefile",
-      "topics": [
-        "aap",
-        "aap-juce",
-        "android",
-        "audio",
-        "audio-plugin",
-        "juce"
-      ],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
-          "date": "2023-01-24T16:44:12+00:00",
-          "title": "The 10 Best Free VST Instruments to Get in 2026"
-        },
-        {
-          "blog": "LANDR Blog",
-          "url": "https://blog.landr.com/best-bass-plugins/",
-          "date": "2026-02-09T21:38:55+00:00",
-          "title": "The 14 Best Bass Plugins in 2026 (Free and Paid)"
-        }
-      ]
-    },
-    {
       "id": "garebear99/bassmaid",
       "name": "BassMaid",
       "author": "GareBear99",
@@ -15684,6 +15687,92 @@
       "mentions": []
     },
     {
+      "id": "garebear99/instrudio",
+      "name": "Instrudio",
+      "author": "GareBear99",
+      "description": "4 free VST3/AU synth plugins — physically modeled violin, piano, harp & bongos. Native JUCE DSP. MIDI input. Themed UI. Single-source-of-truth architecture.",
+      "kind": "instrument",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3",
+        "au",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/GareBear99/Instrudio",
+      "repo": "garebear99/instrudio",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 9,
+      "forks": 1,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-07-01T19:57:15Z",
+      "language": "HTML",
+      "topics": [
+        "audio-plugin",
+        "audio-unit",
+        "daw",
+        "free-plugin",
+        "instrument",
+        "juce",
+        "midi",
+        "music",
+        "open-source",
+        "physical-modeling",
+        "synthesizer",
+        "vst",
+        "vst3",
+        "web-audio"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "forge-audio/mp-forge",
+      "name": "mp-forge",
+      "author": "Forge-Audio",
+      "description": "Make plugins for your Akai MPC creatively. Free and open source.",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Forge-Audio/mp-forge",
+      "repo": "forge-audio/mp-forge",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 9,
+      "forks": 1,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T21:21:19Z",
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "akai-mpc",
+        "audio-plugin",
+        "mpc",
+        "music-production",
+        "rust",
+        "tauri",
+        "vst"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "jaggillarvatten/pluginpurge",
       "name": "PluginPurge",
       "author": "JagGillarVatten",
@@ -15719,6 +15808,45 @@
         "plugins",
         "vst",
         "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "1337133713377/reka",
+      "name": "reka",
+      "author": "1337133713377",
+      "description": "La console de mixage tout-en-un pour Windows Voicemeeter pour le son, tes plugins VST pour les effets, une seule fenêtre pour tout piloter , Un seul fichier, rien à installer · mises à jour automatiques",
+      "kind": "plugin",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/1337133713377/reka",
+      "repo": "1337133713377/reka",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 9,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T18:07:09Z",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "discord",
+        "vst-plugin",
+        "vst-plugins",
+        "vst2",
+        "vst3",
+        "vst3-plugin"
       ],
       "files": [],
       "mentions": []
@@ -15793,7 +15921,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T03:47:46Z",
+      "updated": "2026-11-28T03:50:01Z",
       "language": "Python",
       "topics": [
         "audio",
@@ -16267,92 +16395,6 @@
       "mentions": []
     },
     {
-      "id": "garebear99/instrudio",
-      "name": "Instrudio",
-      "author": "GareBear99",
-      "description": "4 free VST3/AU synth plugins — physically modeled violin, piano, harp & bongos. Native JUCE DSP. MIDI input. Themed UI. Single-source-of-truth architecture.",
-      "kind": "instrument",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3",
-        "au",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/GareBear99/Instrudio",
-      "repo": "garebear99/instrudio",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 8,
-      "forks": 1,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-07-01T19:57:15Z",
-      "language": "HTML",
-      "topics": [
-        "audio-plugin",
-        "audio-unit",
-        "daw",
-        "free-plugin",
-        "instrument",
-        "juce",
-        "midi",
-        "music",
-        "open-source",
-        "physical-modeling",
-        "synthesizer",
-        "vst",
-        "vst3",
-        "web-audio"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "forge-audio/mp-forge",
-      "name": "mp-forge",
-      "author": "Forge-Audio",
-      "description": "Make plugins for your Akai MPC creatively. Free and open source.",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Forge-Audio/mp-forge",
-      "repo": "forge-audio/mp-forge",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 8,
-      "forks": 1,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-25T00:04:14Z",
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "akai-mpc",
-        "audio-plugin",
-        "mpc",
-        "music-production",
-        "rust",
-        "tauri",
-        "vst"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "fazilirak/music",
       "name": "Music",
       "author": "fazilirak",
@@ -16415,7 +16457,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-21T19:20:20Z",
+      "updated": "2026-11-26T21:00:43Z",
       "language": "Rust",
       "topics": [
         "audio-plugin",
@@ -16425,45 +16467,6 @@
         "mts-esp",
         "rust",
         "vst3"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "1337133713377/reka",
-      "name": "reka",
-      "author": "1337133713377",
-      "description": "La console de mixage tout-en-un pour Windows Voicemeeter pour le son, tes plugins VST pour les effets, une seule fenêtre pour tout piloter , Un seul fichier, rien à installer · mises à jour automatiques",
-      "kind": "plugin",
-      "license": null,
-      "tags": [],
-      "formats": [
-        "vst3",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/1337133713377/reka",
-      "repo": "1337133713377/reka",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 8,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-26T02:30:49Z",
-      "language": "Python",
-      "topics": [
-        "audio",
-        "discord",
-        "vst-plugin",
-        "vst-plugins",
-        "vst2",
-        "vst3",
-        "vst3-plugin"
       ],
       "files": [],
       "mentions": []
@@ -16537,6 +16540,45 @@
         "audio-unit",
         "vocals",
         "vst"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "mikeoliphant/vst3visualstudioexample",
+      "name": "Vst3VisualStudioExample",
+      "author": "mikeoliphant",
+      "description": "A simple windows VST (VST3) example plugin using Visual Studio",
+      "kind": "plugin",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/mikeoliphant/Vst3VisualStudioExample",
+      "repo": "mikeoliphant/vst3visualstudioexample",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 8,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2020-11-21T22:24:06Z",
+      "language": "C++",
+      "topics": [
+        "audio",
+        "cpp",
+        "plugin",
+        "visual-studio",
+        "vst",
+        "vst3",
+        "windows"
       ],
       "files": [],
       "mentions": []
@@ -16850,40 +16892,48 @@
       "mentions": []
     },
     {
-      "id": "earzuchan/fix_ableton_izotope_hidpi_on_windows",
-      "name": "Fix_Ableton_iZotope_HiDPI_on_Windows",
-      "author": "EarzuChan",
-      "description": "A HiDPI bug affecting iZotope plugins within Ableton Live on Windows",
-      "kind": "plugin",
-      "license": "mit",
+      "id": "burningtreec/gainstagefx",
+      "name": "gainstagefx",
+      "author": "BurningTreeC",
+      "description": "A CLAP / VST3 / AUv2 plugin",
+      "kind": "effect",
+      "license": "apache-2.0",
       "tags": [],
       "formats": [
-        "vst"
+        "vst3",
+        "clap",
+        "au"
       ],
       "systems": [],
       "version": null,
-      "url": "https://github.com/EarzuChan/Fix_Ableton_iZotope_HiDPI_on_Windows",
-      "repo": "earzuchan/fix_ableton_izotope_hidpi_on_windows",
+      "url": "https://github.com/BurningTreeC/gainstagefx",
+      "repo": "burningtreec/gainstagefx",
       "image": null,
       "audio": null,
       "downloads": 0,
       "stars": 7,
-      "forks": 0,
+      "forks": null,
       "source": "github",
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-03-29T14:32:19Z",
-      "language": "JavaScript",
+      "updated": "2026-10-04T12:48:52Z",
+      "language": "Rust",
       "topics": [
-        "ableton",
-        "fix",
-        "izotope",
-        "music",
-        "music-production",
-        "plugins",
-        "poc",
-        "vst"
+        "amplifier",
+        "au-plugin",
+        "auv2",
+        "auv2-plugin",
+        "clap",
+        "clap-plugin",
+        "daw",
+        "daw-plugins",
+        "distortion",
+        "pedal",
+        "preamp",
+        "saturation",
+        "vst3",
+        "vst3-plugin"
       ],
       "files": [],
       "mentions": []
@@ -17394,53 +17444,6 @@
       "mentions": []
     },
     {
-      "id": "burningtreec/gainstagefx",
-      "name": "gainstagefx",
-      "author": "BurningTreeC",
-      "description": "A CLAP / VST3 / AUv2 plugin",
-      "kind": "effect",
-      "license": "apache-2.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "clap",
-        "au"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/BurningTreeC/gainstagefx",
-      "repo": "burningtreec/gainstagefx",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 6,
-      "forks": null,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-10-04T12:48:52Z",
-      "language": "Rust",
-      "topics": [
-        "amplifier",
-        "au-plugin",
-        "auv2",
-        "auv2-plugin",
-        "clap",
-        "clap-plugin",
-        "daw",
-        "daw-plugins",
-        "distortion",
-        "pedal",
-        "preamp",
-        "saturation",
-        "vst3",
-        "vst3-plugin"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "jaybee18/garbage",
       "name": "Garbage",
       "author": "Jaybee18",
@@ -17751,7 +17754,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-10-29T14:10:35Z",
+      "updated": "2026-11-26T23:13:46Z",
       "language": "Rust",
       "topics": [
         "audio",
@@ -17897,7 +17900,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T07:53:16Z",
+      "updated": "2026-11-27T09:06:57Z",
       "language": "C++",
       "topics": [
         "au",
@@ -18434,7 +18437,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T19:47:46Z",
+      "updated": "2026-11-27T10:35:30Z",
       "language": "C++",
       "topics": [
         "audio",
@@ -18526,7 +18529,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T07:00:54Z",
+      "updated": "2026-11-28T11:07:59Z",
       "language": "C++",
       "topics": [
         "clap",
@@ -18661,7 +18664,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T05:36:50Z",
+      "updated": "2026-11-27T14:51:25Z",
       "language": "C++",
       "topics": [
         "clap-plugin",
@@ -19206,6 +19209,51 @@
       "mentions": []
     },
     {
+      "id": "froth-audio/audiopluginsuite",
+      "name": "AudioPluginSuite",
+      "author": "FROTH-Audio",
+      "description": "Several creative VST3/AU plugins",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "au",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/FROTH-Audio/AudioPluginSuite",
+      "repo": "froth-audio/audiopluginsuite",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 4,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-28T02:44:51Z",
+      "language": "C++",
+      "topics": [
+        "au-plugin",
+        "au-plugins",
+        "daw-plugins",
+        "music",
+        "music-generation",
+        "music-producer",
+        "music-production",
+        "vst",
+        "vst-plugin",
+        "vst-plugins",
+        "vst3",
+        "vst3-plugin"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "kushview/everb",
       "name": "everb",
       "author": "kushview",
@@ -19266,7 +19314,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T03:41:13Z",
+      "updated": "2026-11-28T03:59:27Z",
       "language": "Rust",
       "topics": [
         "audio-plugin",
@@ -19518,7 +19566,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T22:57:14Z",
+      "updated": "2026-11-28T03:35:49Z",
       "language": "Rust",
       "topics": [
         "audio",
@@ -19958,51 +20006,6 @@
       "mentions": []
     },
     {
-      "id": "froth-audio/audiopluginsuite",
-      "name": "AudioPluginSuite",
-      "author": "FROTH-Audio",
-      "description": "Several creative VST3/AU plugins",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "au",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/FROTH-Audio/AudioPluginSuite",
-      "repo": "froth-audio/audiopluginsuite",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 3,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-25T23:04:23Z",
-      "language": "C++",
-      "topics": [
-        "au-plugin",
-        "au-plugins",
-        "daw-plugins",
-        "music",
-        "music-generation",
-        "music-producer",
-        "music-production",
-        "vst",
-        "vst-plugin",
-        "vst-plugins",
-        "vst3",
-        "vst3-plugin"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
       "id": "fenrirrhogar/axiseq",
       "name": "AxisEQ",
       "author": "FenrirRhogar",
@@ -20307,7 +20310,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T23:19:28Z",
+      "updated": "2026-11-28T00:38:14Z",
       "language": "TypeScript",
       "topics": [
         "amp-simulator",
@@ -20482,6 +20485,51 @@
         "plugin",
         "vst",
         "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "speakingcolors/purrfect-cut",
+      "name": "purrfect-cut",
+      "author": "SpeakingColors",
+      "description": "Audio editor and VST plugin from one install (Linux, Windows, macOS): cut, trim, fade, normalise, reverse, plus Auto-Tune style pitch pages for voices and leads. Free and open source.",
+      "kind": "sampler",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/SpeakingColors/purrfect-cut",
+      "repo": "speakingcolors/purrfect-cut",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 3,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-16T19:44:31Z",
+      "language": "C++",
+      "topics": [
+        "audio-editor",
+        "audio-plugin",
+        "auto-tune",
+        "cpp",
+        "free-vst",
+        "juce",
+        "linux-audio",
+        "music-production",
+        "open-source",
+        "pitch-correction",
+        "sampler",
+        "vst3",
+        "wave-editor"
       ],
       "files": [],
       "mentions": []
@@ -20864,7 +20912,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T00:05:55Z",
+      "updated": "2026-11-28T10:10:59Z",
       "language": "C++",
       "topics": [
         "audio",
@@ -20883,6 +20931,43 @@
         "impulse-response",
         "linux-audio",
         "lv2-plugin"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "noizeetoyz/free-vst3",
+      "name": "free-vst3",
+      "author": "NoiZeeToyZ",
+      "description": "Free NoiZee ToyZ VST3 / AU plugins (KICK, QUAD, RESONATOR, MORPH FILTER, GRAIN-FORGE): downloads only",
+      "kind": "instrument",
+      "license": null,
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/NoiZeeToyZ/free-vst3",
+      "repo": "noizeetoyz/free-vst3",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 2,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-26T21:39:23Z",
+      "language": null,
+      "topics": [
+        "audio",
+        "audio-plugin",
+        "noizee-toyz",
+        "synthesizer",
+        "vst3",
+        "vst3-plugin"
       ],
       "files": [],
       "mentions": []
@@ -20954,7 +21039,7 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-26T02:01:23Z",
+      "updated": "2026-11-28T01:46:01Z",
       "language": "C++",
       "topics": [
         "mastering-plugins",
@@ -21746,6 +21831,49 @@
       "mentions": []
     },
     {
+      "id": "c-kick/hnl-vsts",
+      "name": "hnl-vsts",
+      "author": "c-kick",
+      "description": "Free (VST3, CLAP & Audio Unit) audio plugins by hnldesign/c_kick",
+      "kind": "plugin",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "clap",
+        "au",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/c-kick/hnl-vsts",
+      "repo": "c-kick/hnl-vsts",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 1,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-28T00:17:21Z",
+      "language": "C++",
+      "topics": [
+        "audio-effects",
+        "audio-effects-plugin",
+        "audio-unit",
+        "clap",
+        "clap-plugin",
+        "music-production",
+        "vst",
+        "vst-plugin",
+        "vst3"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "dedzet/lb-as-2d",
       "name": "LB-AS-2D",
       "author": "DedZet",
@@ -21824,6 +21952,49 @@
       "mentions": []
     },
     {
+      "id": "baggofficial/muvmnt-lfo",
+      "name": "MUVMNT-LFO",
+      "author": "baggofficial",
+      "description": "Free LFO VST plugin (VST3) for sidechain-style volume shaping and pumping, with multiband mode. Windows and macOS.",
+      "kind": "effect",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/baggofficial/MUVMNT-LFO",
+      "repo": "baggofficial/muvmnt-lfo",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 1,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T15:45:27Z",
+      "language": "C++",
+      "topics": [
+        "audio-effect",
+        "audio-plugin",
+        "juce",
+        "lfo",
+        "music-production",
+        "sidechain",
+        "volume-shaper",
+        "vst",
+        "vst-plugin",
+        "vst3",
+        "vst3-plugin"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "fosewell/needlevu",
       "name": "NeedleVU",
       "author": "Fosewell",
@@ -21883,14 +22054,67 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-23T18:16:10Z",
+      "updated": "2026-11-26T15:00:01Z",
       "language": "C++",
       "topics": [
         "au-plugin",
         "au-plugins",
         "au-plugins-daw",
+        "virtual-analog",
+        "virtual-analog-synth",
+        "virtual-synth",
+        "virtual-synthesizer",
+        "virtual-synthesizers",
         "vst3",
         "vst3-plugin"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
+      "id": "helge666/ostrich55",
+      "name": "ostrich55",
+      "author": "Helge666",
+      "description": "Ostrich 55 (O-55): an emulation of the Roland SC-55 Sound Canvas as VST3/CLAP plugin and standalone, built on Nuked-SC55 by nukeykt and J.C. Moyer",
+      "kind": "instrument",
+      "license": "gpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3",
+        "clap"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/Helge666/ostrich55",
+      "repo": "helge666/ostrich55",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 1,
+      "forks": null,
+      "source": "github",
+      "verified": false,
+      "archived": true,
+      "date": null,
+      "updated": "2026-11-13T12:34:59Z",
+      "language": "C++",
+      "topics": [
+        "audio-plugin",
+        "clap",
+        "clap-plugin",
+        "dpf",
+        "emulation",
+        "emulator",
+        "general-midi",
+        "linux-audio",
+        "low-level-emulation",
+        "midi",
+        "nuked-sc55",
+        "roland",
+        "roland-sc55",
+        "sc-55",
+        "sound-canvas",
+        "sound-module"
       ],
       "files": [],
       "mentions": []
@@ -22457,6 +22681,46 @@
       "mentions": []
     },
     {
+      "id": "silentspike/worldsynth",
+      "name": "worldsynth",
+      "author": "silentspike",
+      "description": "Professional multi-engine synthesizer — CLAP plugin + Standalone for Linux",
+      "kind": "instrument",
+      "license": "noassertion",
+      "tags": [],
+      "formats": [
+        "clap"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/silentspike/worldsynth",
+      "repo": "silentspike/worldsynth",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 1,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-20T12:51:44Z",
+      "language": null,
+      "topics": [
+        "audio",
+        "clap-plugin",
+        "dsp",
+        "linux",
+        "midi",
+        "music-production",
+        "svelte",
+        "synthesizer",
+        "zig"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "ewinam/airy-plugin",
       "name": "airy-plugin",
       "author": "EwinAM",
@@ -22643,12 +22907,16 @@
       "verified": false,
       "archived": false,
       "date": null,
-      "updated": "2026-11-25T20:51:30Z",
+      "updated": "2026-11-28T08:08:59Z",
       "language": "C++",
       "topics": [
         "au-plugin",
         "au-plugins",
         "au-plugins-daw",
+        "audio-plugin",
+        "multi-effects-processor",
+        "reverb-plugins",
+        "virtual-effects",
         "vst3",
         "vst3-plugin"
       ],
@@ -22823,49 +23091,6 @@
         "vst3",
         "vst3-plugin",
         "vsts"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "c-kick/hnl-vsts",
-      "name": "hnl-vsts",
-      "author": "c-kick",
-      "description": "Free (VST3, CLAP & Audio Unit) audio plugins by hnldesign/c_kick",
-      "kind": "plugin",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "clap",
-        "au",
-        "vst"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/c-kick/hnl-vsts",
-      "repo": "c-kick/hnl-vsts",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 0,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-24T21:08:44Z",
-      "language": "C++",
-      "topics": [
-        "audio-effects",
-        "audio-effects-plugin",
-        "audio-unit",
-        "clap",
-        "clap-plugin",
-        "music-production",
-        "vst",
-        "vst-plugin",
-        "vst3"
       ],
       "files": [],
       "mentions": []
@@ -23134,6 +23359,44 @@
       "mentions": []
     },
     {
+      "id": "chillermanu-sudo/rs-roarripper",
+      "name": "RS-RoarRipper",
+      "author": "chillermanu-sudo",
+      "description": "Automatic Feedback-Suppressor PlugIn with static and flexible notches.",
+      "kind": "plugin",
+      "license": "agpl-3.0",
+      "tags": [],
+      "formats": [
+        "vst3"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://github.com/chillermanu-sudo/RS-RoarRipper",
+      "repo": "chillermanu-sudo/rs-roarripper",
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": 0,
+      "forks": 0,
+      "source": "github",
+      "verified": false,
+      "archived": false,
+      "date": null,
+      "updated": "2026-11-27T23:56:35Z",
+      "language": "C++",
+      "topics": [
+        "audio-plugin",
+        "feedback-killer",
+        "feedback-suppression",
+        "free-plugin",
+        "no-latency",
+        "vst3-plugin",
+        "windows"
+      ],
+      "files": [],
+      "mentions": []
+    },
+    {
       "id": "sgm-dsp/sgm-compressor",
       "name": "SGM-Compressor",
       "author": "SGM-DSP",
@@ -23332,46 +23595,6 @@
         "vst3",
         "vst3-plugin",
         "vst3-plugins"
-      ],
-      "files": [],
-      "mentions": []
-    },
-    {
-      "id": "silentspike/worldsynth",
-      "name": "worldsynth",
-      "author": "silentspike",
-      "description": "Professional multi-engine synthesizer — CLAP plugin + Standalone for Linux",
-      "kind": "instrument",
-      "license": "noassertion",
-      "tags": [],
-      "formats": [
-        "clap"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/silentspike/worldsynth",
-      "repo": "silentspike/worldsynth",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": 0,
-      "forks": 0,
-      "source": "github",
-      "verified": false,
-      "archived": false,
-      "date": null,
-      "updated": "2026-11-20T12:51:44Z",
-      "language": null,
-      "topics": [
-        "audio",
-        "clap-plugin",
-        "dsp",
-        "linux",
-        "midi",
-        "music-production",
-        "svelte",
-        "synthesizer",
-        "zig"
       ],
       "files": [],
       "mentions": []
@@ -54185,6 +54408,43 @@
       ]
     },
     {
+      "id": "blog:bedroomproducersblog:brigade-vocal-multiplier-as-a-download",
+      "name": "Brigade vocal multiplier as a download",
+      "author": "Karanyi Sounds",
+      "description": "Karanyi Sounds has released Brigade, a vocal multiplier plugin for macOS and Windows, as a free download for Black Friday. We covered the Brigade preregistration offer earlier this month, and the plugin is now finally available to claim. The free license is permanent, so you don't have to worry about paid updates, and it covers",
+      "kind": "plugin",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/28/karanyi-sounds-brigade-free/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-28T09:59:12",
+      "updated": "2026-11-28T09:59:12",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/28/karanyi-sounds-brigade-free/",
+          "date": "2026-11-28T09:59:12",
+          "title": "Karanyi Sounds releases Brigade vocal multiplier as a FREE download"
+        }
+      ]
+    },
+    {
       "id": "chowdhury-dsp/byod",
       "name": "BYOD",
       "author": "Chowdhury DSP",
@@ -56808,43 +57068,6 @@
       "mentions": []
     },
     {
-      "id": "blog:bedroomproducersblog:khorde",
-      "name": "Khorde",
-      "author": "Untitled Audio Syndicate",
-      "description": "Untitled Audio Syndicate has released Khorde, a free MIDI plugin that lets you play full chords with one finger on macOS and Windows. That developer name kinda sounds like an underground organization that decided to get into developing plugins now that everyone else seems to be doing it. But actually, deadmau5 (Joel Zimmerman) has been",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-23T14:39:21",
-      "updated": "2026-11-23T14:39:21",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/",
-          "date": "2026-11-23T14:39:21",
-          "title": "Untitled Audio Syndicate releases Khorde, a FREE MIDI chord generator"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:kickmaker",
       "name": "KickMaker",
       "author": "LANDR Blog",
@@ -57190,43 +57413,6 @@
       ]
     },
     {
-      "id": "blog:bedroomproducersblog:loft",
-      "name": "LOFT",
-      "author": "13x Audio",
-      "description": "13x Audio has released LOFT, a free vintage reverb plugin for macOS, Windows, and Linux that lets you draw how the tail moves over time. We've previously covered the developer's Aurora dynamic EQ and Colony multi-effect. LOFT now adds a reverb to its growing freeware collection, and it's not just a plain old reverb. It",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-19T17:33:26",
-      "updated": "2026-11-19T17:33:26",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/",
-          "date": "2026-11-19T17:33:26",
-          "title": "13x Audio releases LOFT, a FREE vintage reverb with drawable envelopes"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:logic-pro-s-amp-designer",
       "name": "Logic Pro’s Amp Designer",
       "author": "LANDR Blog",
@@ -57299,6 +57485,80 @@
           "url": "https://blog.landr.com/best-free-vst-instruments-2022/",
           "date": "2023-01-24T16:44:12+00:00",
           "title": "The 10 Best Free VST Instruments to Get in 2026"
+        }
+      ]
+    },
+    {
+      "id": "blog:bedroomproducersblog:mantra",
+      "name": "Mantra",
+      "author": "Sacred Audio",
+      "description": "Sacred Audio is offering Mantra, a free LFO shaper and trance gate for macOS and Windows, designed for rolling psytrance basslines and rhythmic pads. It's a rhythmic gate that works best when placed after a sustained sound. To get started, you can put it on a channel with a bass synth holding one long note,",
+      "kind": "instrument",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/27/sacred-audio-mantra/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-27T10:31:01",
+      "updated": "2026-11-27T10:31:01",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/27/sacred-audio-mantra/",
+          "date": "2026-11-27T10:31:01",
+          "title": "Sacred Audio releases Mantra, a FREE LFO shaper and trance gate for macOS and Windows"
+        }
+      ]
+    },
+    {
+      "id": "blog:bedroomproducersblog:microspace",
+      "name": "Microspace",
+      "author": "BPB",
+      "description": "I'm very happy to finally release BPB Microspace, a free convolution-based reverb for all BPB readers. It's been on the back burner for over a year and is now finally ready for release. I worked with the same developer who helped me create VATRA (and the team was now stronger thanks to a talented 3D",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-26T19:56:52",
+      "updated": "2026-11-26T19:56:52",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
+          "date": "2026-11-26T19:56:52",
+          "title": "BPB releases Microspace, a FREE convolution reverb plugin"
         }
       ]
     },
@@ -58308,6 +58568,43 @@
       "mentions": []
     },
     {
+      "id": "blog:bedroomproducersblog:obliterate-2",
+      "name": "Obliterate 2",
+      "author": "Newfangled Audio",
+      "description": "Newfangled Audio has released Obliterate 2, a free distortion and filter plugin for macOS and Windows, adding new distortion modes, noise textures, reverb, and modulation. We covered the original Obliterate when it arrived in 2024. That version was already awesome if you like extreme resonant distortion. It offered two algorithms called Too Much and Too",
+      "kind": "effect",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-27T08:00:27",
+      "updated": "2026-11-27T08:00:27",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/",
+          "date": "2026-11-27T08:00:27",
+          "title": "Newfangled Audio releases Obliterate 2, a FREE distortion plugin with reverb and modulation"
+        }
+      ]
+    },
+    {
       "id": "reales/opl",
       "name": "OPL",
       "author": "discoDSP",
@@ -58446,54 +58743,6 @@
           "type": "archive"
         }
       ],
-      "mentions": []
-    },
-    {
-      "id": "helge666/ostrich55",
-      "name": "ostrich55",
-      "author": "Helge666",
-      "description": "Ostrich 55 (O-55): an emulation of the Roland SC-55 Sound Canvas as VST3/CLAP plugin and standalone, built on Nuked-SC55 by nukeykt and J.C. Moyer",
-      "kind": "instrument",
-      "license": "gpl-3.0",
-      "tags": [],
-      "formats": [
-        "vst3",
-        "clap"
-      ],
-      "systems": [],
-      "version": null,
-      "url": "https://github.com/Helge666/ostrich55",
-      "repo": "helge666/ostrich55",
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "github",
-      "verified": false,
-      "archived": true,
-      "date": null,
-      "updated": "2026-11-13T12:34:59Z",
-      "language": "C++",
-      "topics": [
-        "audio-plugin",
-        "clap",
-        "clap-plugin",
-        "dpf",
-        "emulation",
-        "emulator",
-        "general-midi",
-        "linux-audio",
-        "low-level-emulation",
-        "midi",
-        "nuked-sc55",
-        "roland",
-        "roland-sc55",
-        "sc-55",
-        "sound-canvas",
-        "sound-module"
-      ],
-      "files": [],
       "mentions": []
     },
     {
@@ -58856,43 +59105,6 @@
       ]
     },
     {
-      "id": "blog:bedroomproducersblog:plugin-boutique",
-      "name": "Plugin Boutique",
-      "author": "Bedroom Producers Blog",
-      "description": "Plugin Boutique has expanded its November gifts with Roland JUNO-60 Chorus and UAD Cooper Time Cube Delay, both free with qualifying purchases. Since our previous Plugin Boutique freebies roundup, JUNO-60 Chorus has joined the options available with any paid purchase. Cooper Time Cube requires a minimum spend of $49, 49, or 49. JUNO-60 Chorus recreates",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-20T17:31:10",
-      "updated": "2026-11-20T17:31:10",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/",
-          "date": "2026-11-20T17:31:10",
-          "title": "Plugin Boutique adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to its FREE gifts"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:positive-grid-bias-x",
       "name": "Positive Grid Bias X",
       "author": "LANDR Blog",
@@ -58978,43 +59190,6 @@
         }
       ],
       "mentions": []
-    },
-    {
-      "id": "blog:bedroomproducersblog:pure",
-      "name": "pure",
-      "author": "sonible",
-      "description": "sonible has released pure:smooth, an intelligent resonance suppression plugin for macOS and Windows, with an introductory price of 25 instead of 39. The introductory offer runs until December 14, 2026. The plugin also joins the pure:bundle, bringing the collection to eight processors, with the bundle currently priced at 99 instead of 179. pure:smooth automatically identifies",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-21T16:12:17",
-      "updated": "2026-11-21T16:12:17",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/",
-          "date": "2026-11-21T16:12:17",
-          "title": "sonible releases pure:smooth resonance suppressor at €25 intro price"
-        }
-      ]
     },
     {
       "id": "duckdsp/quackapella",
@@ -59312,6 +59487,46 @@
         }
       ],
       "mentions": []
+    },
+    {
+      "id": "blog:bedroomproducersblog:roots-bad-batch",
+      "name": "Roots Bad Batch",
+      "author": "Westwood Instruments",
+      "description": "Developer Westwood Instruments has released Roots Bad Batch, a free edgy percussion instrument for macOS and Windows. Bad Batch is the latest addition to the Westwood Instruments Roots series, and it's available in AU, VST, and VST3 formats for macOS (12 or later) and Windows (10 or later). Bad Batch is a new instrument made",
+      "kind": "instrument",
+      "license": null,
+      "tags": [
+        "Bedroom Producers Blog"
+      ],
+      "formats": [
+        "vst3",
+        "vst"
+      ],
+      "systems": [],
+      "version": null,
+      "url": "https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/",
+      "repo": null,
+      "image": null,
+      "audio": null,
+      "downloads": 0,
+      "stars": null,
+      "forks": null,
+      "source": "blog",
+      "verified": false,
+      "archived": false,
+      "date": "2026-11-27T08:06:02",
+      "updated": "2026-11-27T08:06:02",
+      "language": null,
+      "topics": [],
+      "files": [],
+      "mentions": [
+        {
+          "blog": "Bedroom Producers Blog",
+          "url": "https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/",
+          "date": "2026-11-27T08:06:02",
+          "title": "Westwood Instruments releases Roots Bad Batch, a FREE edgy percussion instrument"
+        }
+      ]
     },
     {
       "id": "figbug/rp2a03",
@@ -59836,43 +60051,6 @@
       ]
     },
     {
-      "id": "blog:bedroomproducersblog:siren",
-      "name": "Siren",
-      "author": "Mercurial Tones",
-      "description": "Mercurial Tones offers Siren, a free vocal pitch correction plugin with automatic tuning and a graphical note editor. I find it hard to believe how many free autotune plugins are out there now compared to just two or three years ago. The options keep adding up, and this week we got two new ones. We",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-22T11:49:30",
-      "updated": "2026-11-22T11:49:30",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
-          "date": "2026-11-22T11:49:30",
-          "title": "Mercurial Tones releases Siren, a FREE pitch correction plugin with a note editor"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:sixth-sample-deelay",
       "name": "Sixth Sample Deelay",
       "author": "LANDR Blog",
@@ -60165,43 +60343,6 @@
         }
       ],
       "mentions": []
-    },
-    {
-      "id": "blog:bedroomproducersblog:spatial-eq",
-      "name": "Spatial EQ",
-      "author": "RiverFlux Audio",
-      "description": "RiverFlux Audio has released Spatial EQ, a free eight-band equalizer with per-band depth controls for Windows, macOS, and Linux. We recently covered RiverFlux Audio's RF-201 tape echo and spring reverb. As for the new Spatial EQ, the developer originally planned to sell it, but decided to make it free as a thank-you for the support",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/23/riverflux-audio-spatial-eq/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-23T15:13:24",
-      "updated": "2026-11-23T15:13:24",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/23/riverflux-audio-spatial-eq/",
-          "date": "2026-11-23T15:13:24",
-          "title": "RiverFlux Audio releases Spatial EQ, a FREE equalizer plugin"
-        }
-      ]
     },
     {
       "id": "blog:landr:spectral-plugins-spacer",
@@ -60600,43 +60741,6 @@
       ]
     },
     {
-      "id": "blog:bedroomproducersblog:super-909",
-      "name": "Super 909",
-      "author": "AudioKit",
-      "description": "AudioKit Pro has released Super 909, a free TR-909-inspired drum machine for iPhone, iPad, and Mac, available as a standalone app and AUv3 plugin. The developer previously gave us Synth One J6, a free iOS synth. This time, they switched focus to legendary synthesized drums from Roland, with a step sequencer, playable pads, and tools",
-      "kind": "instrument",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-20T17:17:25",
-      "updated": "2026-11-20T17:17:25",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/",
-          "date": "2026-11-20T17:17:25",
-          "title": "AudioKit releases Super 909, a FREE drum machine for iOS and macOS"
-        }
-      ]
-    },
-    {
       "id": "resonantdsp/swankyamp",
       "name": "Swanky Amp",
       "author": "Resonant DSP",
@@ -60998,43 +61102,6 @@
         }
       ],
       "mentions": []
-    },
-    {
-      "id": "blog:bedroomproducersblog:the-pitch-2-mini",
-      "name": "THE_PITCH 2 MINI",
-      "author": "Phil Speiser",
-      "description": "Phil Speiser has released THE_PITCH 2 MINI, a free pitch correction plugin for vocals and other single-note sources on macOS and Windows. I already covered my favorite pitch correction tools in the free autotune plugins article. THE_PITCH 2 MINI is the latest contender, and I think its main advantage is the simple workflow. For a",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-18T18:07:06",
-      "updated": "2026-11-18T18:07:06",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/",
-          "date": "2026-11-18T18:07:06",
-          "title": "Phil Speiser releases THE_PITCH 2 MINI, a FREE vocal pitch correction plugin"
-        }
-      ]
     },
     {
       "id": "dusanmsk/tonnetzviz",
@@ -61545,43 +61612,6 @@
       "mentions": []
     },
     {
-      "id": "blog:bedroomproducersblog:uzat",
-      "name": "UZAT",
-      "author": "Audiolatry",
-      "description": "Audiolatry has released UZAT, a free lo-fi multi-effect plugin for Windows and macOS that adds movement, worn textures, and digital degradation to your audio. I'll start with the obvious here. The interface looks AI-coded, but Audiolatry has a solid track record of decent virtual instruments over the past few years, and UZAT worked well during",
-      "kind": "effect",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/19/audiolatry-uzat/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-19T11:02:59",
-      "updated": "2026-11-19T11:02:59",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/19/audiolatry-uzat/",
-          "date": "2026-11-19T11:02:59",
-          "title": "Audiolatry releases UZAT, a FREE lo-fi multi-effect plugin for Windows and macOS"
-        }
-      ]
-    },
-    {
       "id": "blog:landr:valhalla-space-modulator",
       "name": "Valhalla Space Modulator",
       "author": "LANDR Blog",
@@ -61656,80 +61686,6 @@
           "url": "https://blog.landr.com/free-vst-plugins/",
           "date": "2024-06-20T15:50:11+00:00",
           "title": "Best Free VST Plugins: Effects, Instruments & Midi"
-        }
-      ]
-    },
-    {
-      "id": "blog:bedroomproducersblog:vf-mini",
-      "name": "VF-Mini",
-      "author": "Never Found Audio",
-      "description": "The latest release from the developer Never Found Audio is the VF-Mini, a free reverse riser plugin for vocals. Like Never Found Audio's previous Mini series FX plugins, VF-Mini is the free version of a paid product: VF-Pro. While the Pro version offers 21 vocal effects across five categories, including Risers, Stutters, Throws, Tape Stop/Start,",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-21T12:27:50",
-      "updated": "2026-11-21T12:27:50",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/",
-          "date": "2026-11-21T12:27:50",
-          "title": "Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals"
-        }
-      ]
-    },
-    {
-      "id": "blog:bedroomproducersblog:vintage-pre",
-      "name": "Vintage Pre",
-      "author": "Rocksolid Audio",
-      "description": "Rocksolid Audio has released Vintage Pre, a free 1950s-style valve preamp plugin for Windows and macOS. Vintage Pre simulates the coloration of an old console channel, and you get two main controls for pushing its virtual transformers and valves. It works well for gentle saturation, but you can also turn up the drive for more",
-      "kind": "plugin",
-      "license": null,
-      "tags": [
-        "Bedroom Producers Blog"
-      ],
-      "formats": [],
-      "systems": [],
-      "version": null,
-      "url": "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/",
-      "repo": null,
-      "image": null,
-      "audio": null,
-      "downloads": 0,
-      "stars": null,
-      "forks": null,
-      "source": "blog",
-      "verified": false,
-      "archived": false,
-      "date": "2026-11-21T16:23:18",
-      "updated": "2026-11-21T16:23:18",
-      "language": null,
-      "topics": [],
-      "files": [],
-      "mentions": [
-        {
-          "blog": "Bedroom Producers Blog",
-          "url": "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/",
-          "date": "2026-11-21T16:23:18",
-          "title": "Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin"
         }
       ]
     },
